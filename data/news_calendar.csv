@@ -1,0 +1,1211 @@
+time,currency,event
+2024-01-03 15:00:00,USD,ISM Manufacturing PMI
+2024-01-03 19:00:00,USD,FOMC Meeting Minutes
+2024-01-04 13:15:00,USD,ADP Non-Farm Employment Change
+2024-01-04 13:30:00,USD,Unemployment Claims
+2024-01-04 19:00:00,EUR,German Prelim CPI m/m
+2024-01-05 13:30:00,CAD,Employment Change
+2024-01-05 13:30:00,USD,Average Hourly Earnings m/m
+2024-01-05 15:00:00,USD,ISM Services PMI
+2024-01-08 07:30:00,CHF,CPI m/m
+2024-01-10 00:30:00,AUD,CPI y/y
+2024-01-10 14:15:00,GBP,BOE Gov Bailey Speaks
+2024-01-11 13:30:00,USD,Core CPI m/m
+2024-01-12 07:00:00,GBP,GDP m/m
+2024-01-12 13:30:00,USD,Core PPI m/m
+2024-01-16 07:00:00,GBP,Claimant Count Change
+2024-01-16 13:30:00,CAD,CPI m/m
+2024-01-16 13:30:00,USD,Empire State Manufacturing Index
+2024-01-16 15:00:00,GBP,BOE Gov Bailey Speaks
+2024-01-17 07:00:00,GBP,CPI y/y
+2024-01-17 13:30:00,USD,Retail Sales m/m
+2024-01-18 00:30:00,AUD,Employment Change
+2024-01-18 13:30:00,USD,Unemployment Claims
+2024-01-19 07:00:00,GBP,Retail Sales m/m
+2024-01-19 15:00:00,USD,Prelim UoM Consumer Sentiment
+2024-01-23 03:09:00,JPY,BOJ Outlook Report
+2024-01-23 06:30:00,JPY,BOJ Press Conference
+2024-01-23 21:45:00,NZD,CPI q/q
+2024-01-24 08:15:00,EUR,French Flash Manufacturing PMI
+2024-01-24 08:30:00,EUR,German Flash Manufacturing PMI
+2024-01-24 09:30:00,GBP,Flash Services PMI
+2024-01-24 14:45:00,CAD,BOC Monetary Policy Report
+2024-01-24 14:45:00,USD,Flash Manufacturing PMI
+2024-01-24 15:30:00,CAD,BOC Press Conference
+2024-01-25 13:15:00,EUR,Main Refinancing Rate
+2024-01-25 13:30:00,USD,Advance GDP q/q
+2024-01-25 13:45:00,EUR,ECB Press Conference
+2024-01-26 13:30:00,USD,Core PCE Price Index m/m
+2024-01-30 15:00:00,USD,JOLTS Job Openings
+2024-01-31 00:30:00,AUD,CPI m/m
+2024-01-31 01:30:00,EUR,German Prelim CPI m/m
+2024-01-31 13:15:00,USD,ADP Non-Farm Employment Change
+2024-01-31 13:30:00,CAD,GDP m/m
+2024-01-31 13:30:00,USD,Employment Cost Index q/q
+2024-01-31 19:00:00,USD,Federal Funds Rate
+2024-01-31 19:30:00,USD,FOMC Press Conference
+2024-02-01 12:00:00,GBP,BOE Monetary Policy Report
+2024-02-01 12:30:00,GBP,BOE Gov Bailey Speaks
+2024-02-01 13:30:00,USD,Unemployment Claims
+2024-02-01 15:00:00,USD,ISM Manufacturing PMI
+2024-02-01 16:30:00,CAD,BOC Gov Macklem Speaks
+2024-02-02 13:30:00,USD,Average Hourly Earnings m/m
+2024-02-02 15:00:00,USD,Revised UoM Consumer Sentiment
+2024-02-05 00:00:00,USD,Fed Chair Powell Speaks
+2024-02-05 15:00:00,USD,ISM Services PMI
+2024-02-06 03:30:00,AUD,Cash Rate
+2024-02-06 04:30:00,AUD,RBA Press Conference
+2024-02-06 17:45:00,CAD,BOC Gov Macklem Speaks
+2024-02-06 21:45:00,NZD,Unemployment Rate
+2024-02-08 13:30:00,USD,Unemployment Claims
+2024-02-08 22:30:00,AUD,RBA Gov Bullock Speaks
+2024-02-09 13:30:00,CAD,Employment Change
+2024-02-12 18:00:00,GBP,BOE Gov Bailey Speaks
+2024-02-13 02:20:00,NZD,Inflation Expectations q/q
+2024-02-13 07:00:00,GBP,Claimant Count Change
+2024-02-13 07:30:00,CHF,CPI m/m
+2024-02-13 13:30:00,USD,Core CPI m/m
+2024-02-14 07:00:00,GBP,CPI y/y
+2024-02-14 15:00:00,GBP,BOE Gov Bailey Speaks
+2024-02-14 22:00:00,AUD,RBA Gov Bullock Speaks
+2024-02-15 00:30:00,AUD,Employment Change
+2024-02-15 07:00:00,GBP,GDP m/m
+2024-02-15 13:30:00,USD,Core Retail Sales m/m
+2024-02-16 07:00:00,GBP,Retail Sales m/m
+2024-02-16 13:30:00,USD,Core PPI m/m
+2024-02-16 15:00:00,USD,Prelim UoM Consumer Sentiment
+2024-02-20 00:30:00,AUD,Monetary Policy Meeting Minutes
+2024-02-20 13:30:00,CAD,Trimmed CPI y/y
+2024-02-21 00:30:00,AUD,Wage Price Index q/q
+2024-02-21 19:00:00,USD,FOMC Meeting Minutes
+2024-02-22 08:15:00,EUR,French Flash Manufacturing PMI
+2024-02-22 08:30:00,EUR,German Flash Manufacturing PMI
+2024-02-22 09:30:00,GBP,Flash Manufacturing PMI
+2024-02-22 13:30:00,USD,Unemployment Claims
+2024-02-22 14:45:00,USD,Flash Manufacturing PMI
+2024-02-27 13:30:00,USD,Durable Goods Orders m/m
+2024-02-27 15:00:00,USD,CB Consumer Confidence
+2024-02-28 00:30:00,AUD,CPI y/y
+2024-02-28 01:00:00,NZD,Official Cash Rate
+2024-02-28 13:30:00,USD,Prelim GDP q/q
+2024-02-29 13:30:00,EUR,German Prelim CPI m/m
+2024-02-29 13:30:00,CAD,GDP m/m
+2024-02-29 13:30:00,USD,Core PCE Price Index m/m
+2024-03-01 15:00:00,USD,ISM Manufacturing PMI
+2024-03-04 07:30:00,CHF,CPI m/m
+2024-03-05 04:00:00,JPY,BOJ Gov Ueda Speaks
+2024-03-05 15:00:00,USD,ISM Services PMI
+2024-03-06 00:30:00,AUD,GDP q/q
+2024-03-06 12:34:00,GBP,Annual Budget Release
+2024-03-06 13:15:00,USD,ADP Non-Farm Employment Change
+2024-03-06 14:45:00,CAD,BOC Rate Statement
+2024-03-06 15:00:00,USD,Fed Chair Powell Testifies
+2024-03-06 15:30:00,CAD,BOC Press Conference
+2024-03-07 13:15:00,EUR,Main Refinancing Rate
+2024-03-07 13:30:00,USD,Unemployment Claims
+2024-03-07 13:45:00,EUR,ECB Press Conference
+2024-03-07 15:00:00,USD,Fed Chair Powell Testifies
+2024-03-08 13:30:00,CAD,Employment Change
+2024-03-08 13:30:00,USD,Average Hourly Earnings m/m
+2024-03-12 07:00:00,GBP,Claimant Count Change
+2024-03-12 12:30:00,USD,Core CPI m/m
+2024-03-12 17:01:00,USD,10-y Bond Auction
+2024-03-13 07:00:00,GBP,GDP m/m
+2024-03-13 17:01:00,USD,30-y Bond Auction
+2024-03-14 12:30:00,USD,Unemployment Claims
+2024-03-15 12:30:00,USD,Empire State Manufacturing Index
+2024-03-15 14:00:00,USD,Prelim UoM Consumer Sentiment
+2024-03-19 03:30:00,AUD,Cash Rate
+2024-03-19 03:36:00,JPY,BOJ Policy Rate
+2024-03-19 04:30:00,AUD,RBA Press Conference
+2024-03-19 06:30:00,JPY,BOJ Press Conference
+2024-03-19 12:30:00,CAD,CPI m/m
+2024-03-20 07:00:00,GBP,CPI y/y
+2024-03-20 18:00:00,USD,FOMC Statement
+2024-03-20 18:30:00,USD,FOMC Press Conference
+2024-03-20 21:45:00,NZD,GDP q/q
+2024-03-21 00:30:00,AUD,Employment Change
+2024-03-21 08:15:00,EUR,French Flash Manufacturing PMI
+2024-03-21 08:30:00,CHF,SNB Monetary Policy Assessment
+2024-03-21 08:30:00,EUR,German Flash Manufacturing PMI
+2024-03-21 09:00:00,CHF,SNB Press Conference
+2024-03-21 09:30:00,GBP,Flash Services PMI
+2024-03-21 12:00:00,GBP,Monetary Policy Summary
+2024-03-21 12:30:00,USD,Unemployment Claims
+2024-03-21 13:45:00,USD,Flash Manufacturing PMI
+2024-03-22 07:00:00,GBP,Retail Sales m/m
+2024-03-22 07:00:00,EUR,Euro Summit
+2024-03-22 13:00:00,USD,Fed Chair Powell Speaks
+2024-03-26 14:00:00,USD,CB Consumer Confidence
+2024-03-27 00:30:00,AUD,CPI y/y
+2024-03-27 22:00:00,USD,FOMC Member Waller Speaks
+2024-03-28 12:30:00,USD,Unemployment Claims
+2024-03-28 12:30:00,CAD,GDP m/m
+2024-03-28 14:00:00,USD,Pending Home Sales m/m
+2024-03-29 12:30:00,USD,Core PCE Price Index m/m
+2024-03-29 15:30:00,USD,Fed Chair Powell Speaks
+2024-04-01 14:00:00,USD,ISM Manufacturing PMI
+2024-04-02 14:00:00,EUR,German Prelim CPI m/m
+2024-04-02 14:00:00,USD,JOLTS Job Openings
+2024-04-03 12:15:00,USD,ADP Non-Farm Employment Change
+2024-04-03 14:00:00,USD,ISM Services PMI
+2024-04-03 16:10:00,USD,Fed Chair Powell Speaks
+2024-04-04 06:30:00,CHF,CPI m/m
+2024-04-04 12:30:00,USD,Unemployment Claims
+2024-04-05 12:30:00,USD,Unemployment Rate
+2024-04-05 12:30:00,CAD,Unemployment Rate
+2024-04-10 02:00:00,NZD,Official Cash Rate
+2024-04-10 12:30:00,USD,Core CPI m/m
+2024-04-10 13:45:00,CAD,BOC Monetary Policy Report
+2024-04-10 14:30:00,CAD,BOC Press Conference
+2024-04-10 18:00:00,USD,FOMC Meeting Minutes
+2024-04-11 12:15:00,EUR,Monetary Policy Statement
+2024-04-11 12:30:00,USD,Core PPI m/m
+2024-04-11 12:45:00,EUR,ECB Press Conference
+2024-04-11 17:01:00,USD,30-y Bond Auction
+2024-04-12 06:00:00,GBP,GDP m/m
+2024-04-12 14:00:00,USD,Prelim UoM Consumer Sentiment
+2024-04-15 12:30:00,USD,Core Retail Sales m/m
+2024-04-16 06:00:00,GBP,Claimant Count Change
+2024-04-16 12:30:00,CAD,Median CPI y/y
+2024-04-16 17:00:00,GBP,BOE Gov Bailey Speaks
+2024-04-16 17:15:00,CAD,BOC Gov Macklem Speaks
+2024-04-16 17:15:00,USD,Fed Chair Powell Speaks
+2024-04-16 22:45:00,NZD,CPI q/q
+2024-04-17 06:00:00,GBP,CPI y/y
+2024-04-17 16:00:00,GBP,BOE Gov Bailey Speaks
+2024-04-18 01:30:00,AUD,Employment Change
+2024-04-18 12:30:00,USD,Unemployment Claims
+2024-04-19 06:00:00,GBP,Retail Sales m/m
+2024-04-23 07:15:00,EUR,French Flash Manufacturing PMI
+2024-04-23 07:30:00,EUR,German Flash Manufacturing PMI
+2024-04-23 08:30:00,GBP,Flash Services PMI
+2024-04-23 13:45:00,USD,Flash Manufacturing PMI
+2024-04-24 01:30:00,AUD,CPI m/m
+2024-04-25 12:30:00,USD,Advance GDP q/q
+2024-04-25 14:00:00,USD,Pending Home Sales m/m
+2024-04-26 03:22:00,JPY,BOJ Outlook Report
+2024-04-26 06:30:00,JPY,BOJ Press Conference
+2024-04-26 12:30:00,USD,Core PCE Price Index m/m
+2024-04-26 14:00:00,USD,Revised UoM Consumer Sentiment
+2024-04-29 14:00:00,EUR,German Prelim CPI m/m
+2024-04-30 12:30:00,CAD,GDP m/m
+2024-04-30 12:30:00,USD,Employment Cost Index q/q
+2024-04-30 14:00:00,USD,CB Consumer Confidence
+2024-04-30 22:45:00,NZD,Employment Change q/q
+2024-05-01 12:15:00,USD,ADP Non-Farm Employment Change
+2024-05-01 13:45:00,USD,Final Manufacturing PMI
+2024-05-01 14:00:00,USD,ISM Manufacturing PMI
+2024-05-01 18:00:00,USD,Federal Funds Rate
+2024-05-01 18:30:00,USD,FOMC Press Conference
+2024-05-01 20:15:00,CAD,BOC Gov Macklem Speaks
+2024-05-02 06:30:00,CHF,CPI m/m
+2024-05-02 12:30:00,USD,Unemployment Claims
+2024-05-02 12:45:00,CAD,BOC Gov Macklem Speaks
+2024-05-03 12:30:00,USD,Average Hourly Earnings m/m
+2024-05-03 14:00:00,USD,ISM Services PMI
+2024-05-07 04:30:00,AUD,Cash Rate
+2024-05-09 11:00:00,GBP,BOE Monetary Policy Report
+2024-05-09 11:30:00,GBP,BOE Gov Bailey Speaks
+2024-05-09 12:30:00,USD,Unemployment Claims
+2024-05-09 15:00:00,CAD,BOC Gov Macklem Speaks
+2024-05-09 17:01:00,USD,30-y Bond Auction
+2024-05-10 06:00:00,GBP,GDP m/m
+2024-05-10 12:30:00,CAD,Employment Change
+2024-05-10 14:00:00,USD,Prelim UoM Consumer Sentiment
+2024-05-13 03:00:00,NZD,Inflation Expectations q/q
+2024-05-14 06:00:00,GBP,Claimant Count Change
+2024-05-14 12:30:00,USD,Core PPI m/m
+2024-05-14 14:00:00,USD,Fed Chair Powell Speaks
+2024-05-15 01:30:00,AUD,Wage Price Index q/q
+2024-05-15 12:30:00,USD,Retail Sales m/m
+2024-05-16 01:30:00,AUD,Employment Change
+2024-05-16 12:30:00,USD,Unemployment Claims
+2024-05-21 12:30:00,CAD,CPI m/m
+2024-05-21 17:00:00,GBP,BOE Gov Bailey Speaks
+2024-05-22 02:00:00,NZD,RBNZ Monetary Policy Statement
+2024-05-22 06:00:00,GBP,CPI y/y
+2024-05-22 18:00:00,USD,FOMC Meeting Minutes
+2024-05-23 07:15:00,EUR,French Flash Manufacturing PMI
+2024-05-23 07:30:00,EUR,German Flash Manufacturing PMI
+2024-05-23 08:30:00,GBP,Flash Manufacturing PMI
+2024-05-23 12:30:00,USD,Unemployment Claims
+2024-05-23 13:45:00,USD,Flash Manufacturing PMI
+2024-05-24 06:00:00,GBP,Retail Sales m/m
+2024-05-24 14:00:00,USD,Revised UoM Consumer Sentiment
+2024-05-27 00:05:00,JPY,BOJ Gov Ueda Speaks
+2024-05-28 14:00:00,USD,CB Consumer Confidence
+2024-05-29 01:30:00,EUR,German Prelim CPI m/m
+2024-05-29 01:30:00,AUD,CPI y/y
+2024-05-30 12:30:00,USD,Prelim GDP q/q
+2024-05-30 14:00:00,USD,Pending Home Sales m/m
+2024-05-31 09:00:00,EUR,Core CPI Flash Estimate y/y
+2024-05-31 12:30:00,CAD,GDP m/m
+2024-05-31 12:30:00,USD,Core PCE Price Index m/m
+2024-06-03 13:45:00,USD,Final Manufacturing PMI
+2024-06-03 14:00:00,USD,ISM Manufacturing PMI
+2024-06-04 06:30:00,CHF,CPI m/m
+2024-06-04 14:00:00,USD,JOLTS Job Openings
+2024-06-05 01:30:00,AUD,GDP q/q
+2024-06-05 12:15:00,USD,ADP Non-Farm Employment Change
+2024-06-05 13:45:00,CAD,BOC Rate Statement
+2024-06-05 14:00:00,USD,ISM Services PMI
+2024-06-05 14:30:00,CAD,BOC Press Conference
+2024-06-06 12:15:00,EUR,Main Refinancing Rate
+2024-06-06 12:30:00,USD,Unemployment Claims
+2024-06-06 12:45:00,EUR,ECB Press Conference
+2024-06-07 12:30:00,CAD,Employment Change
+2024-06-07 12:30:00,USD,Average Hourly Earnings m/m
+2024-06-11 06:00:00,GBP,Claimant Count Change
+2024-06-12 06:00:00,GBP,GDP m/m
+2024-06-12 12:30:00,USD,Core CPI m/m
+2024-06-12 18:00:00,USD,Federal Funds Rate
+2024-06-12 18:30:00,USD,FOMC Press Conference
+2024-06-12 19:15:00,CAD,BOC Gov Macklem Speaks
+2024-06-13 01:30:00,AUD,Employment Change
+2024-06-13 12:30:00,USD,Core PPI m/m
+2024-06-13 17:00:00,CAD,BOC Gov Macklem Speaks
+2024-06-14 03:23:00,JPY,BOJ Policy Rate
+2024-06-14 06:30:00,JPY,BOJ Press Conference
+2024-06-14 14:00:00,USD,Prelim UoM Consumer Sentiment
+2024-06-17 12:30:00,USD,Empire State Manufacturing Index
+2024-06-18 04:30:00,AUD,Cash Rate
+2024-06-18 12:30:00,USD,Core Retail Sales m/m
+2024-06-19 06:00:00,GBP,CPI y/y
+2024-06-19 22:45:00,NZD,GDP q/q
+2024-06-20 07:30:00,CHF,SNB Policy Rate
+2024-06-20 08:00:00,CHF,SNB Press Conference
+2024-06-20 11:00:00,GBP,Monetary Policy Summary
+2024-06-20 12:30:00,USD,Unemployment Claims
+2024-06-20 20:00:00,USD,Treasury Currency Report
+2024-06-21 06:00:00,GBP,Retail Sales m/m
+2024-06-21 07:15:00,EUR,French Flash Manufacturing PMI
+2024-06-21 07:30:00,EUR,German Flash Manufacturing PMI
+2024-06-21 08:30:00,GBP,Flash Manufacturing PMI
+2024-06-21 13:45:00,USD,Flash Services PMI
+2024-06-24 17:30:00,CAD,BOC Gov Macklem Speaks
+2024-06-25 12:30:00,CAD,CPI m/m
+2024-06-25 14:00:00,USD,CB Consumer Confidence
+2024-06-26 01:30:00,AUD,CPI y/y
+2024-06-26 14:00:00,USD,New Home Sales
+2024-06-27 09:30:00,GBP,BOE Gov Bailey Speaks
+2024-06-27 12:30:00,USD,Final GDP q/q
+2024-06-27 14:00:00,USD,Pending Home Sales m/m
+2024-06-28 12:30:00,USD,Core PCE Price Index m/m
+2024-06-28 12:30:00,CAD,GDP m/m
+2024-06-30 01:30:00,EUR,French Parliamentary Elections
+2024-07-01 01:30:00,EUR,German Prelim CPI m/m
+2024-07-01 14:00:00,USD,ISM Manufacturing PMI
+2024-07-02 09:00:00,EUR,Core CPI Flash Estimate y/y
+2024-07-02 13:30:00,USD,Fed Chair Powell Speaks
+2024-07-02 14:00:00,USD,JOLTS Job Openings
+2024-07-03 12:15:00,USD,ADP Non-Farm Employment Change
+2024-07-03 12:30:00,USD,Unemployment Claims
+2024-07-03 14:00:00,USD,ISM Services PMI
+2024-07-03 18:00:00,USD,FOMC Meeting Minutes
+2024-07-04 06:30:00,CHF,CPI m/m
+2024-07-04 06:30:00,GBP,Parliamentary Elections
+2024-07-05 12:30:00,USD,Non-Farm Employment Change
+2024-07-05 12:30:00,CAD,Employment Change
+2024-07-07 12:30:00,EUR,French Parliamentary Elections
+2024-07-09 14:00:00,USD,Fed Chair Powell Testifies
+2024-07-10 02:00:00,NZD,Official Cash Rate
+2024-07-10 14:00:00,USD,Fed Chair Powell Testifies
+2024-07-11 06:00:00,GBP,GDP m/m
+2024-07-11 12:30:00,USD,Core CPI m/m
+2024-07-12 12:30:00,USD,Core PPI m/m
+2024-07-12 14:00:00,USD,Prelim UoM Consumer Sentiment
+2024-07-15 12:30:00,USD,Empire State Manufacturing Index
+2024-07-15 16:30:00,USD,Fed Chair Powell Speaks
+2024-07-16 12:30:00,USD,Retail Sales m/m
+2024-07-16 12:30:00,CAD,Median CPI y/y
+2024-07-16 22:45:00,NZD,CPI q/q
+2024-07-17 06:00:00,GBP,CPI y/y
+2024-07-18 01:30:00,AUD,Employment Change
+2024-07-18 06:00:00,GBP,Claimant Count Change
+2024-07-18 12:15:00,EUR,Main Refinancing Rate
+2024-07-18 12:30:00,USD,Unemployment Claims
+2024-07-18 12:45:00,EUR,ECB Press Conference
+2024-07-19 06:00:00,GBP,Retail Sales m/m
+2024-07-19 12:30:00,CAD,Retail Sales m/m
+2024-07-24 07:15:00,EUR,French Flash Manufacturing PMI
+2024-07-24 07:30:00,EUR,German Flash Manufacturing PMI
+2024-07-24 08:30:00,GBP,Flash Manufacturing PMI
+2024-07-24 13:45:00,CAD,BOC Monetary Policy Report
+2024-07-24 13:45:00,USD,Flash Manufacturing PMI
+2024-07-24 14:30:00,CAD,BOC Press Conference
+2024-07-25 12:30:00,USD,Unemployment Claims
+2024-07-26 12:30:00,USD,Core PCE Price Index m/m
+2024-07-30 12:30:00,EUR,German Prelim CPI m/m
+2024-07-30 14:00:00,USD,CB Consumer Confidence
+2024-07-31 01:30:00,AUD,CPI m/m
+2024-07-31 03:57:00,JPY,BOJ Outlook Report
+2024-07-31 06:30:00,JPY,BOJ Press Conference
+2024-07-31 09:00:00,EUR,Core CPI Flash Estimate y/y
+2024-07-31 12:15:00,USD,ADP Non-Farm Employment Change
+2024-07-31 12:30:00,CAD,GDP m/m
+2024-07-31 12:30:00,USD,Employment Cost Index q/q
+2024-07-31 14:00:00,USD,Pending Home Sales m/m
+2024-07-31 18:00:00,USD,Federal Funds Rate
+2024-07-31 18:30:00,USD,FOMC Press Conference
+2024-08-01 11:00:00,GBP,BOE Monetary Policy Report
+2024-08-01 11:30:00,GBP,BOE Gov Bailey Speaks
+2024-08-01 12:30:00,USD,Unemployment Claims
+2024-08-01 14:00:00,USD,ISM Manufacturing PMI
+2024-08-02 06:30:00,CHF,CPI m/m
+2024-08-02 12:30:00,USD,Average Hourly Earnings m/m
+2024-08-05 14:00:00,USD,ISM Services PMI
+2024-08-06 04:30:00,AUD,Cash Rate
+2024-08-06 22:45:00,NZD,Employment Change q/q
+2024-08-08 02:40:00,AUD,RBA Gov Bullock Speaks
+2024-08-08 03:00:00,NZD,Inflation Expectations q/q
+2024-08-08 12:30:00,USD,Unemployment Claims
+2024-08-09 12:30:00,CAD,Employment Change
+2024-08-13 01:30:00,AUD,Wage Price Index q/q
+2024-08-13 06:00:00,GBP,Claimant Count Change
+2024-08-13 12:30:00,USD,Core PPI m/m
+2024-08-14 02:00:00,NZD,Official Cash Rate
+2024-08-14 06:00:00,GBP,CPI y/y
+2024-08-14 12:30:00,USD,Core CPI m/m
+2024-08-15 01:30:00,AUD,Employment Change
+2024-08-15 06:00:00,GBP,GDP m/m
+2024-08-15 12:30:00,USD,Unemployment Claims
+2024-08-15 23:30:00,AUD,RBA Gov Bullock Speaks
+2024-08-16 06:00:00,GBP,Retail Sales m/m
+2024-08-20 12:30:00,CAD,CPI m/m
+2024-08-21 14:00:00,USD,Prelim Benchmark Payrolls Revision
+2024-08-21 18:00:00,USD,FOMC Meeting Minutes
+2024-08-22 07:15:00,EUR,French Flash Manufacturing PMI
+2024-08-22 07:30:00,EUR,German Flash Manufacturing PMI
+2024-08-22 08:30:00,GBP,Flash Manufacturing PMI
+2024-08-22 12:30:00,USD,Unemployment Claims
+2024-08-22 13:45:00,USD,Flash Manufacturing PMI
+2024-08-23 00:33:00,JPY,BOJ Gov Ueda Speaks
+2024-08-23 04:00:00,JPY,BOJ Gov Ueda Speaks
+2024-08-23 12:30:00,CAD,Core Retail Sales m/m
+2024-08-23 14:00:00,USD,Fed Chair Powell Speaks
+2024-08-23 15:00:00,GBP,BOE Gov Bailey Speaks
+2024-08-27 14:00:00,USD,CB Consumer Confidence
+2024-08-28 01:30:00,AUD,CPI y/y
+2024-08-29 01:30:00,EUR,German Prelim CPI m/m
+2024-08-29 12:30:00,USD,Prelim GDP q/q
+2024-08-30 09:00:00,EUR,CPI Flash Estimate y/y
+2024-08-30 12:30:00,USD,Core PCE Price Index m/m
+2024-08-30 12:30:00,CAD,GDP m/m
+2024-09-03 06:30:00,CHF,CPI m/m
+2024-09-03 14:00:00,USD,ISM Manufacturing PMI
+2024-09-04 01:30:00,AUD,GDP q/q
+2024-09-04 13:45:00,CAD,BOC Rate Statement
+2024-09-04 14:00:00,USD,JOLTS Job Openings
+2024-09-04 14:30:00,CAD,BOC Press Conference
+2024-09-05 03:05:00,AUD,RBA Gov Bullock Speaks
+2024-09-05 12:15:00,USD,ADP Non-Farm Employment Change
+2024-09-05 12:30:00,USD,Unemployment Claims
+2024-09-05 14:00:00,USD,ISM Services PMI
+2024-09-06 12:30:00,USD,Unemployment Rate
+2024-09-06 12:30:00,CAD,Unemployment Rate
+2024-09-06 15:00:00,USD,FOMC Member Waller Speaks
+2024-09-10 06:00:00,GBP,Claimant Count Change
+2024-09-10 12:10:00,CAD,BOC Gov Macklem Speaks
+2024-09-11 06:00:00,GBP,GDP m/m
+2024-09-11 12:30:00,USD,Core CPI m/m
+2024-09-12 12:15:00,EUR,Main Refinancing Rate
+2024-09-12 12:30:00,USD,Core PPI m/m
+2024-09-12 12:45:00,EUR,ECB Press Conference
+2024-09-17 12:30:00,CAD,CPI m/m
+2024-09-17 12:30:00,USD,Core Retail Sales m/m
+2024-09-18 06:00:00,GBP,CPI y/y
+2024-09-18 18:00:00,USD,Federal Funds Rate
+2024-09-18 18:30:00,USD,FOMC Press Conference
+2024-09-18 22:45:00,NZD,GDP q/q
+2024-09-19 01:30:00,AUD,Employment Change
+2024-09-19 11:00:00,GBP,Official Bank Rate
+2024-09-19 12:30:00,USD,Unemployment Claims
+2024-09-20 02:52:00,JPY,BOJ Policy Rate
+2024-09-20 06:00:00,GBP,Retail Sales m/m
+2024-09-20 06:30:00,JPY,BOJ Press Conference
+2024-09-20 12:15:00,CAD,BOC Gov Macklem Speaks
+2024-09-20 12:30:00,CAD,Core Retail Sales m/m
+2024-09-23 07:15:00,EUR,French Flash Manufacturing PMI
+2024-09-23 07:30:00,EUR,German Flash Services PMI
+2024-09-23 08:30:00,GBP,Flash Services PMI
+2024-09-23 13:45:00,USD,Flash Manufacturing PMI
+2024-09-24 04:30:00,AUD,Cash Rate
+2024-09-24 05:05:00,JPY,BOJ Gov Ueda Speaks
+2024-09-24 14:00:00,USD,CB Consumer Confidence
+2024-09-24 17:10:00,CAD,BOC Gov Macklem Speaks
+2024-09-25 01:30:00,AUD,CPI y/y
+2024-09-26 07:30:00,CHF,SNB Monetary Policy Assessment
+2024-09-26 08:00:00,CHF,SNB Press Conference
+2024-09-26 12:30:00,USD,Final GDP q/q
+2024-09-26 13:20:00,USD,Fed Chair Powell Speaks
+2024-09-27 12:30:00,CAD,GDP m/m
+2024-09-27 12:30:00,USD,Core PCE Price Index m/m
+2024-09-30 01:30:00,EUR,German Prelim CPI m/m
+2024-09-30 17:55:00,USD,Fed Chair Powell Speaks
+2024-10-01 09:00:00,EUR,Core CPI Flash Estimate y/y
+2024-10-01 14:00:00,USD,ISM Manufacturing PMI
+2024-10-01 15:15:00,CHF,SNB Chairman Schlegel Speaks
+2024-10-02 12:15:00,USD,ADP Non-Farm Employment Change
+2024-10-03 06:30:00,CHF,CPI m/m
+2024-10-03 12:30:00,USD,Unemployment Claims
+2024-10-03 14:00:00,USD,ISM Services PMI
+2024-10-04 12:30:00,USD,Average Hourly Earnings m/m
+2024-10-09 01:00:00,NZD,Official Cash Rate
+2024-10-09 18:00:00,USD,FOMC Meeting Minutes
+2024-10-10 12:30:00,USD,Core CPI m/m
+2024-10-11 06:00:00,GBP,GDP m/m
+2024-10-11 12:30:00,CAD,Unemployment Rate
+2024-10-11 12:30:00,USD,Core PPI m/m
+2024-10-15 06:00:00,GBP,Claimant Count Change
+2024-10-15 12:30:00,CAD,CPI m/m
+2024-10-15 21:45:00,NZD,CPI q/q
+2024-10-16 06:00:00,GBP,CPI y/y
+2024-10-17 00:30:00,AUD,Employment Change
+2024-10-17 12:15:00,EUR,Main Refinancing Rate
+2024-10-17 12:30:00,USD,Core Retail Sales m/m
+2024-10-17 12:45:00,EUR,ECB Press Conference
+2024-10-18 06:00:00,GBP,Retail Sales m/m
+2024-10-22 13:25:00,GBP,BOE Gov Bailey Speaks
+2024-10-23 13:45:00,CAD,BOC Monetary Policy Report
+2024-10-23 14:30:00,CAD,BOC Press Conference
+2024-10-23 18:45:00,GBP,BOE Gov Bailey Speaks
+2024-10-24 07:15:00,EUR,French Flash Manufacturing PMI
+2024-10-24 07:30:00,EUR,German Flash Manufacturing PMI
+2024-10-24 08:30:00,GBP,Flash Manufacturing PMI
+2024-10-24 12:30:00,USD,Unemployment Claims
+2024-10-24 13:45:00,USD,Flash Services PMI
+2024-10-24 19:45:00,GBP,BOE Gov Bailey Speaks
+2024-10-25 12:30:00,CAD,Core Retail Sales m/m
+2024-10-27 12:30:00,JPY,Lower House Elections
+2024-10-28 17:30:00,CAD,BOC Gov Macklem Speaks
+2024-10-29 14:00:00,USD,CB Consumer Confidence
+2024-10-29 18:00:00,CHF,SNB Chairman Schlegel Speaks
+2024-10-29 19:30:00,CAD,BOC Gov Macklem Speaks
+2024-10-30 00:30:00,AUD,CPI m/m
+2024-10-30 00:30:00,EUR,German Prelim CPI m/m
+2024-10-30 09:00:00,CHF,SNB Chairman Schlegel Speaks
+2024-10-30 12:15:00,USD,ADP Non-Farm Employment Change
+2024-10-30 12:30:00,USD,Advance GDP q/q
+2024-10-30 20:15:00,CAD,BOC Gov Macklem Speaks
+2024-10-31 02:48:00,JPY,BOJ Outlook Report
+2024-10-31 06:30:00,JPY,BOJ Press Conference
+2024-10-31 12:30:00,CAD,GDP m/m
+2024-10-31 12:30:00,USD,Core PCE Price Index m/m
+2024-11-01 07:30:00,CHF,CPI m/m
+2024-11-01 12:30:00,USD,Non-Farm Employment Change
+2024-11-01 14:00:00,USD,ISM Manufacturing PMI
+2024-11-05 03:30:00,AUD,Cash Rate
+2024-11-05 15:00:00,USD,ISM Services PMI
+2024-11-05 21:45:00,NZD,Employment Change q/q
+2024-11-06 22:00:00,AUD,RBA Gov Bullock Speaks
+2024-11-07 12:00:00,GBP,Official Bank Rate
+2024-11-07 12:30:00,GBP,BOE Gov Bailey Speaks
+2024-11-07 13:30:00,USD,Unemployment Claims
+2024-11-07 19:00:00,USD,Federal Funds Rate
+2024-11-07 19:30:00,USD,FOMC Press Conference
+2024-11-08 13:30:00,CAD,Employment Change
+2024-11-11 02:00:00,NZD,Inflation Expectations q/q
+2024-11-12 07:00:00,GBP,Claimant Count Change
+2024-11-13 00:30:00,AUD,Wage Price Index q/q
+2024-11-13 13:30:00,USD,CPI m/m
+2024-11-13 23:00:00,AUD,RBA Gov Bullock Speaks
+2024-11-14 00:30:00,AUD,Employment Change
+2024-11-14 13:30:00,USD,Core PPI m/m
+2024-11-14 20:00:00,USD,Fed Chair Powell Speaks
+2024-11-14 20:43:00,GBP,BOE Gov Bailey Speaks
+2024-11-15 07:00:00,GBP,GDP m/m
+2024-11-15 13:30:00,USD,Core Retail Sales m/m
+2024-11-18 01:05:00,JPY,BOJ Gov Ueda Speaks
+2024-11-19 10:00:00,GBP,Monetary Policy Report Hearings
+2024-11-19 13:30:00,CAD,Trimmed CPI y/y
+2024-11-20 07:00:00,GBP,CPI y/y
+2024-11-21 05:12:00,JPY,BOJ Gov Ueda Speaks
+2024-11-21 08:00:00,AUD,RBA Gov Bullock Speaks
+2024-11-21 13:30:00,USD,Unemployment Claims
+2024-11-22 07:00:00,GBP,Retail Sales m/m
+2024-11-22 08:15:00,EUR,French Flash Manufacturing PMI
+2024-11-22 08:30:00,EUR,German Flash Manufacturing PMI
+2024-11-22 09:30:00,GBP,Flash Manufacturing PMI
+2024-11-22 12:40:00,CHF,SNB Chairman Schlegel Speaks
+2024-11-22 13:30:00,CAD,Core Retail Sales m/m
+2024-11-22 14:45:00,USD,Flash Services PMI
+2024-11-26 15:00:00,USD,CB Consumer Confidence
+2024-11-26 19:00:00,USD,FOMC Meeting Minutes
+2024-11-27 00:30:00,AUD,CPI y/y
+2024-11-27 01:00:00,NZD,Official Cash Rate
+2024-11-27 02:00:00,NZD,RBNZ Press Conference
+2024-11-27 13:30:00,USD,Prelim GDP q/q
+2024-11-27 15:00:00,USD,Core PCE Price Index m/m
+2024-11-28 08:55:00,AUD,RBA Gov Bullock Speaks
+2024-11-28 15:00:00,EUR,German Prelim CPI m/m
+2024-11-29 11:00:00,GBP,BOE Gov Bailey Speaks
+2024-11-29 13:30:00,CAD,GDP m/m
+2024-12-02 15:00:00,USD,ISM Manufacturing PMI
+2024-12-03 07:30:00,CHF,CPI m/m
+2024-12-03 15:00:00,USD,JOLTS Job Openings
+2024-12-04 00:30:00,AUD,GDP q/q
+2024-12-04 13:15:00,USD,ADP Non-Farm Employment Change
+2024-12-04 15:00:00,USD,ISM Services PMI
+2024-12-04 18:45:00,USD,Fed Chair Powell Speaks
+2024-12-05 13:30:00,USD,Unemployment Claims
+2024-12-06 13:30:00,CAD,Employment Change
+2024-12-06 13:30:00,USD,Average Hourly Earnings m/m
+2024-12-10 03:30:00,AUD,RBA Rate Statement
+2024-12-11 13:30:00,USD,Core CPI m/m
+2024-12-11 14:45:00,CAD,BOC Rate Statement
+2024-12-11 15:30:00,CAD,BOC Press Conference
+2024-12-12 00:30:00,AUD,Employment Change
+2024-12-12 08:30:00,CHF,SNB Monetary Policy Assessment
+2024-12-12 09:00:00,CHF,SNB Press Conference
+2024-12-12 13:15:00,EUR,Main Refinancing Rate
+2024-12-12 13:30:00,USD,Unemployment Claims
+2024-12-12 13:45:00,EUR,ECB Press Conference
+2024-12-13 07:00:00,GBP,GDP m/m
+2024-12-16 08:15:00,EUR,French Flash Manufacturing PMI
+2024-12-16 08:30:00,EUR,German Flash Manufacturing PMI
+2024-12-16 09:30:00,GBP,Flash Manufacturing PMI
+2024-12-16 14:45:00,USD,Flash Services PMI
+2024-12-16 20:20:00,CAD,BOC Gov Macklem Speaks
+2024-12-17 07:00:00,GBP,Claimant Count Change
+2024-12-17 13:30:00,USD,Retail Sales m/m
+2024-12-17 13:30:00,CAD,CPI m/m
+2024-12-18 07:00:00,GBP,CPI y/y
+2024-12-18 19:00:00,USD,Federal Funds Rate
+2024-12-18 19:30:00,USD,FOMC Press Conference
+2024-12-18 21:45:00,NZD,GDP q/q
+2024-12-19 02:52:00,JPY,BOJ Policy Rate
+2024-12-19 06:30:00,JPY,BOJ Press Conference
+2024-12-19 12:00:00,GBP,Official Bank Rate
+2024-12-19 13:30:00,USD,Final GDP q/q
+2024-12-20 07:00:00,GBP,Retail Sales m/m
+2024-12-20 13:30:00,CAD,Core Retail Sales m/m
+2024-12-20 13:30:00,USD,Core PCE Price Index m/m
+2024-12-23 13:30:00,CAD,GDP m/m
+2024-12-26 13:30:00,USD,Unemployment Claims
+2025-01-02 13:30:00,USD,Unemployment Claims
+2025-01-03 15:00:00,USD,ISM Manufacturing PMI
+2025-01-06 15:00:00,EUR,German Prelim CPI m/m
+2025-01-07 07:30:00,CHF,CPI m/m
+2025-01-07 15:00:00,USD,JOLTS Job Openings
+2025-01-08 00:30:00,AUD,CPI y/y
+2025-01-08 13:15:00,USD,ADP Non-Farm Employment Change
+2025-01-08 13:30:00,USD,Unemployment Claims
+2025-01-08 19:00:00,USD,FOMC Meeting Minutes
+2025-01-10 13:30:00,CAD,Employment Change
+2025-01-10 13:30:00,USD,Average Hourly Earnings m/m
+2025-01-14 13:30:00,USD,Core PPI m/m
+2025-01-15 07:00:00,GBP,CPI y/y
+2025-01-15 13:30:00,USD,CPI y/y
+2025-01-16 00:30:00,AUD,Employment Change
+2025-01-16 07:00:00,GBP,GDP m/m
+2025-01-16 13:30:00,USD,Core Retail Sales m/m
+2025-01-17 07:00:00,GBP,Retail Sales m/m
+2025-01-20 17:00:00,USD,President Trump Speaks
+2025-01-21 07:00:00,GBP,Claimant Count Change
+2025-01-21 13:30:00,CAD,Median CPI y/y
+2025-01-21 21:45:00,NZD,CPI q/q
+2025-01-23 13:30:00,CAD,Retail Sales m/m
+2025-01-23 13:30:00,USD,Unemployment Claims
+2025-01-23 16:00:00,USD,President Trump Speaks
+2025-01-24 03:23:00,JPY,BOJ Outlook Report
+2025-01-24 06:30:00,JPY,BOJ Press Conference
+2025-01-24 08:15:00,EUR,French Flash Manufacturing PMI
+2025-01-24 08:30:00,EUR,German Flash Manufacturing PMI
+2025-01-24 09:30:00,GBP,Flash Manufacturing PMI
+2025-01-24 14:45:00,USD,Flash Services PMI
+2025-01-27 21:25:00,CHF,SNB Chairman Schlegel Speaks
+2025-01-28 15:00:00,USD,CB Consumer Confidence
+2025-01-29 00:30:00,AUD,CPI m/m
+2025-01-29 14:15:00,GBP,BOE Gov Bailey Speaks
+2025-01-29 14:45:00,CAD,BOC Monetary Policy Report
+2025-01-29 15:30:00,CAD,BOC Press Conference
+2025-01-29 19:00:00,USD,FOMC Statement
+2025-01-29 19:30:00,USD,FOMC Press Conference
+2025-01-30 13:15:00,EUR,Monetary Policy Statement
+2025-01-30 13:30:00,USD,Advance GDP q/q
+2025-01-30 13:45:00,EUR,ECB Press Conference
+2025-01-31 13:30:00,CAD,GDP m/m
+2025-01-31 13:30:00,USD,Core PCE Price Index m/m
+2025-01-31 13:45:00,EUR,German Prelim CPI m/m
+2025-02-03 15:00:00,USD,ISM Manufacturing PMI
+2025-02-04 15:00:00,USD,JOLTS Job Openings
+2025-02-04 21:45:00,NZD,Employment Change q/q
+2025-02-04 22:10:00,USD,President Trump Speaks
+2025-02-05 13:15:00,USD,ADP Non-Farm Employment Change
+2025-02-05 15:00:00,USD,ISM Services PMI
+2025-02-06 12:00:00,GBP,BOE Monetary Policy Report
+2025-02-06 12:30:00,GBP,BOE Gov Bailey Speaks
+2025-02-06 13:30:00,USD,Unemployment Claims
+2025-02-06 21:05:00,GBP,BOE Gov Bailey Speaks
+2025-02-07 13:30:00,CAD,Employment Change
+2025-02-07 13:30:00,USD,Average Hourly Earnings m/m
+2025-02-10 21:30:00,USD,President Trump Speaks
+2025-02-11 12:15:00,GBP,BOE Gov Bailey Speaks
+2025-02-11 15:00:00,USD,Fed Chair Powell Testifies
+2025-02-11 20:40:00,USD,President Trump Speaks
+2025-02-12 13:30:00,USD,Core CPI m/m
+2025-02-12 15:00:00,USD,Fed Chair Powell Testifies
+2025-02-12 20:40:00,EUR,Greek Presidential Elections
+2025-02-12 20:48:00,USD,President Trump Speaks
+2025-02-13 02:00:00,NZD,Inflation Expectations q/q
+2025-02-13 07:00:00,GBP,GDP m/m
+2025-02-13 07:30:00,CHF,CPI m/m
+2025-02-13 13:30:00,USD,Core PPI m/m
+2025-02-13 18:36:00,USD,President Trump Speaks
+2025-02-14 13:30:00,USD,Core Retail Sales m/m
+2025-02-14 19:08:00,USD,President Trump Speaks
+2025-02-18 03:30:00,AUD,Cash Rate
+2025-02-18 07:00:00,GBP,Claimant Count Change
+2025-02-18 09:30:00,GBP,BOE Gov Bailey Speaks
+2025-02-18 13:30:00,CAD,CPI m/m
+2025-02-18 21:13:00,USD,President Trump Speaks
+2025-02-19 00:30:00,AUD,Wage Price Index q/q
+2025-02-19 01:00:00,NZD,RBNZ Rate Statement
+2025-02-19 02:00:00,NZD,RBNZ Press Conference
+2025-02-19 02:00:00,USD,President Trump Speaks
+2025-02-19 07:00:00,GBP,CPI y/y
+2025-02-19 19:00:00,USD,FOMC Meeting Minutes
+2025-02-19 22:00:00,USD,President Trump Speaks
+2025-02-20 00:30:00,AUD,Employment Change
+2025-02-20 13:30:00,USD,Unemployment Claims
+2025-02-20 22:30:00,AUD,RBA Gov Bullock Speaks
+2025-02-21 00:20:00,USD,President Trump Speaks
+2025-02-21 07:00:00,GBP,Retail Sales m/m
+2025-02-21 08:15:00,EUR,French Flash Services PMI
+2025-02-21 08:30:00,EUR,German Flash Manufacturing PMI
+2025-02-21 09:30:00,GBP,Flash Manufacturing PMI
+2025-02-21 13:30:00,CAD,Core Retail Sales m/m
+2025-02-21 14:45:00,USD,Flash Manufacturing PMI
+2025-02-21 17:30:00,CAD,BOC Gov Macklem Speaks
+2025-02-21 20:56:00,USD,President Trump Speaks
+2025-02-23 20:56:00,EUR,German Federal Elections
+2025-02-24 19:49:00,USD,President Trump Speaks
+2025-02-25 20:59:00,USD,President Trump Speaks
+2025-02-26 00:30:00,AUD,CPI y/y
+2025-02-27 13:30:00,USD,Unemployment Claims
+2025-02-28 13:30:00,EUR,German Prelim CPI m/m
+2025-02-28 13:30:00,CAD,GDP m/m
+2025-02-28 13:30:00,USD,Core PCE Price Index m/m
+2025-02-28 17:15:00,USD,President Trump Speaks
+2025-03-03 15:00:00,USD,ISM Manufacturing PMI
+2025-03-05 00:30:00,AUD,GDP q/q
+2025-03-05 02:10:00,USD,President Trump Speaks
+2025-03-05 07:30:00,CHF,CPI m/m
+2025-03-05 13:15:00,USD,ADP Non-Farm Employment Change
+2025-03-05 15:00:00,USD,ISM Services PMI
+2025-03-06 13:15:00,EUR,Main Refinancing Rate
+2025-03-06 13:30:00,USD,Unemployment Claims
+2025-03-06 13:45:00,EUR,ECB Press Conference
+2025-03-06 15:00:00,EUR,Euro Summit
+2025-03-07 13:30:00,CAD,Employment Change
+2025-03-07 13:30:00,USD,Average Hourly Earnings m/m
+2025-03-07 17:30:00,USD,Fed Chair Powell Speaks
+2025-03-11 14:00:00,USD,JOLTS Job Openings
+2025-03-12 12:30:00,USD,Core CPI m/m
+2025-03-12 13:45:00,CAD,BOC Rate Statement
+2025-03-12 14:30:00,CAD,BOC Press Conference
+2025-03-13 12:30:00,USD,Core PPI m/m
+2025-03-14 07:00:00,GBP,GDP m/m
+2025-03-14 14:00:00,USD,Prelim UoM Consumer Sentiment
+2025-03-17 12:30:00,USD,Core Retail Sales m/m
+2025-03-18 12:30:00,CAD,CPI m/m
+2025-03-19 02:25:00,JPY,Monetary Policy Statement
+2025-03-19 06:30:00,JPY,BOJ Press Conference
+2025-03-19 18:00:00,USD,Federal Funds Rate
+2025-03-19 18:30:00,USD,FOMC Press Conference
+2025-03-19 21:45:00,NZD,GDP q/q
+2025-03-20 00:30:00,AUD,Employment Change
+2025-03-20 07:00:00,GBP,Claimant Count Change
+2025-03-20 08:30:00,CHF,SNB Monetary Policy Assessment
+2025-03-20 09:00:00,CHF,SNB Press Conference
+2025-03-20 12:00:00,GBP,MPC Official Bank Rate Votes
+2025-03-20 12:30:00,USD,Unemployment Claims
+2025-03-20 16:50:00,CAD,BOC Gov Macklem Speaks
+2025-03-21 12:30:00,CAD,Core Retail Sales m/m
+2025-03-24 08:15:00,EUR,French Flash Manufacturing PMI
+2025-03-24 08:30:00,EUR,German Flash Manufacturing PMI
+2025-03-24 09:30:00,GBP,Flash Manufacturing PMI
+2025-03-24 13:45:00,USD,Flash Manufacturing PMI
+2025-03-24 18:00:00,GBP,BOE Gov Bailey Speaks
+2025-03-26 00:30:00,AUD,CPI y/y
+2025-03-26 07:00:00,GBP,CPI y/y
+2025-03-26 12:30:00,GBP,Annual Budget Release
+2025-03-26 20:00:00,USD,President Trump Speaks
+2025-03-27 12:30:00,USD,Final GDP q/q
+2025-03-28 07:00:00,GBP,Retail Sales m/m
+2025-03-28 12:30:00,CAD,GDP m/m
+2025-03-28 12:30:00,USD,Core PCE Price Index m/m
+2025-03-31 01:30:00,EUR,German Prelim CPI m/m
+2025-04-01 03:30:00,AUD,Cash Rate
+2025-04-01 14:00:00,USD,ISM Manufacturing PMI
+2025-04-02 12:15:00,USD,ADP Non-Farm Employment Change
+2025-04-02 20:00:00,USD,President Trump Speaks
+2025-04-03 06:30:00,CHF,CPI m/m
+2025-04-03 12:30:00,USD,Unemployment Claims
+2025-04-03 14:00:00,USD,ISM Services PMI
+2025-04-04 12:30:00,CAD,Employment Change
+2025-04-04 12:30:00,USD,Average Hourly Earnings m/m
+2025-04-04 15:25:00,USD,Fed Chair Powell Speaks
+2025-04-09 02:00:00,NZD,Official Cash Rate
+2025-04-09 06:15:00,JPY,BOJ Gov Ueda Speaks
+2025-04-09 18:00:00,USD,FOMC Meeting Minutes
+2025-04-10 10:00:00,AUD,RBA Gov Bullock Speaks
+2025-04-10 12:30:00,USD,Unemployment Claims
+2025-04-11 06:00:00,GBP,GDP m/m
+2025-04-11 12:30:00,USD,Core PPI m/m
+2025-04-11 14:00:00,USD,Prelim UoM Consumer Sentiment
+2025-04-15 06:00:00,GBP,Claimant Count Change
+2025-04-15 12:30:00,CAD,Trimmed CPI y/y
+2025-04-16 06:00:00,GBP,CPI y/y
+2025-04-16 12:30:00,USD,Retail Sales m/m
+2025-04-16 13:45:00,CAD,BOC Rate Statement
+2025-04-16 14:30:00,CAD,BOC Press Conference
+2025-04-16 17:30:00,USD,Fed Chair Powell Speaks
+2025-04-16 22:45:00,NZD,CPI q/q
+2025-04-17 01:30:00,AUD,Employment Change
+2025-04-17 12:15:00,EUR,Main Refinancing Rate
+2025-04-17 12:30:00,USD,Unemployment Claims
+2025-04-17 12:45:00,EUR,ECB Press Conference
+2025-04-23 07:15:00,EUR,French Flash Manufacturing PMI
+2025-04-23 07:30:00,EUR,German Flash Services PMI
+2025-04-23 08:30:00,GBP,Flash Manufacturing PMI
+2025-04-23 13:45:00,USD,Flash Manufacturing PMI
+2025-04-23 17:15:00,GBP,BOE Gov Bailey Speaks
+2025-04-24 12:30:00,USD,Unemployment Claims
+2025-04-25 06:00:00,GBP,Retail Sales m/m
+2025-04-25 08:00:00,CHF,SNB Chairman Schlegel Speaks
+2025-04-25 12:30:00,CAD,Core Retail Sales m/m
+2025-04-28 12:30:00,CAD,Federal Election
+2025-04-29 14:00:00,USD,JOLTS Job Openings
+2025-04-30 01:30:00,EUR,German Prelim CPI m/m
+2025-04-30 01:30:00,AUD,Trimmed Mean CPI m/m
+2025-04-30 12:15:00,USD,ADP Non-Farm Employment Change
+2025-04-30 12:30:00,CAD,GDP m/m
+2025-04-30 12:30:00,USD,Advance GDP q/q
+2025-04-30 14:00:00,USD,Core PCE Price Index m/m
+2025-05-01 03:03:00,JPY,BOJ Outlook Report
+2025-05-01 06:30:00,JPY,BOJ Press Conference
+2025-05-01 12:30:00,USD,Unemployment Claims
+2025-05-01 14:00:00,USD,ISM Manufacturing PMI
+2025-05-02 12:30:00,USD,Non-Farm Employment Change
+2025-05-03 12:30:00,AUD,Parliamentary Elections
+2025-05-05 06:30:00,CHF,CPI m/m
+2025-05-05 14:00:00,USD,ISM Services PMI
+2025-05-06 22:45:00,NZD,Employment Change q/q
+2025-05-07 18:00:00,USD,Federal Funds Rate
+2025-05-07 18:30:00,USD,FOMC Press Conference
+2025-05-08 11:02:00,GBP,BOE Monetary Policy Report
+2025-05-08 11:30:00,GBP,BOE Gov Bailey Speaks
+2025-05-08 12:30:00,USD,Unemployment Claims
+2025-05-08 14:00:00,USD,President Trump Speaks
+2025-05-08 15:00:00,CAD,BOC Press Conference
+2025-05-09 08:40:00,GBP,BOE Gov Bailey Speaks
+2025-05-09 12:30:00,CAD,Employment Change
+2025-05-13 06:00:00,GBP,Claimant Count Change
+2025-05-13 12:30:00,USD,Core CPI m/m
+2025-05-13 15:00:00,GBP,BOE Gov Bailey Speaks
+2025-05-14 01:30:00,AUD,Wage Price Index q/q
+2025-05-15 01:30:00,AUD,Employment Change
+2025-05-15 06:00:00,GBP,GDP m/m
+2025-05-15 12:30:00,USD,Unemployment Claims
+2025-05-15 12:40:00,USD,Fed Chair Powell Speaks
+2025-05-16 14:00:00,USD,Prelim UoM Consumer Sentiment
+2025-05-20 04:30:00,AUD,Cash Rate
+2025-05-20 12:30:00,CAD,CPI m/m
+2025-05-21 06:00:00,GBP,CPI y/y
+2025-05-22 07:15:00,EUR,French Flash Services PMI
+2025-05-22 07:30:00,EUR,German Flash Manufacturing PMI
+2025-05-22 08:30:00,GBP,Flash Manufacturing PMI
+2025-05-22 12:30:00,USD,Unemployment Claims
+2025-05-22 13:45:00,USD,Flash Manufacturing PMI
+2025-05-22 18:30:00,CAD,BOC Gov Macklem Speaks
+2025-05-23 06:00:00,GBP,Retail Sales m/m
+2025-05-23 12:30:00,CAD,Core Retail Sales m/m
+2025-05-27 00:00:00,JPY,BOJ Gov Ueda Speaks
+2025-05-28 01:30:00,AUD,CPI y/y
+2025-05-28 02:00:00,NZD,RBNZ Rate Statement
+2025-05-28 03:00:00,NZD,RBNZ Press Conference
+2025-05-28 18:00:00,USD,FOMC Meeting Minutes
+2025-05-29 12:30:00,USD,Prelim GDP q/q
+2025-05-29 15:00:00,GBP,BOE Gov Bailey Speaks
+2025-05-30 12:30:00,CAD,GDP m/m
+2025-05-30 12:30:00,USD,Core PCE Price Index m/m
+2025-05-30 15:00:00,EUR,German Prelim CPI m/m
+2025-06-02 14:00:00,USD,ISM Manufacturing PMI
+2025-06-02 17:00:00,USD,Fed Chair Powell Speaks
+2025-06-03 06:30:00,CHF,CPI m/m
+2025-06-03 07:50:00,JPY,BOJ Gov Ueda Speaks
+2025-06-03 14:00:00,USD,JOLTS Job Openings
+2025-06-04 01:30:00,AUD,GDP q/q
+2025-06-04 12:15:00,USD,ADP Non-Farm Employment Change
+2025-06-04 13:45:00,CAD,BOC Rate Statement
+2025-06-04 14:00:00,USD,ISM Services PMI
+2025-06-04 14:30:00,CAD,BOC Press Conference
+2025-06-05 12:15:00,EUR,Main Refinancing Rate
+2025-06-05 12:30:00,USD,Unemployment Claims
+2025-06-05 12:45:00,EUR,ECB Press Conference
+2025-06-06 12:30:00,USD,Unemployment Rate
+2025-06-06 12:30:00,CAD,Employment Change
+2025-06-11 12:30:00,USD,Core CPI m/m
+2025-06-12 06:00:00,GBP,GDP m/m
+2025-06-12 12:30:00,USD,Core PPI m/m
+2025-06-13 14:00:00,USD,Prelim UoM Consumer Sentiment
+2025-06-17 03:30:00,JPY,Monetary Policy Statement
+2025-06-17 06:30:00,JPY,BOJ Press Conference
+2025-06-17 12:30:00,USD,Retail Sales m/m
+2025-06-18 06:00:00,GBP,CPI y/y
+2025-06-18 12:30:00,USD,Unemployment Claims
+2025-06-18 15:15:00,CAD,BOC Gov Macklem Speaks
+2025-06-18 18:00:00,USD,Federal Funds Rate
+2025-06-18 18:30:00,USD,FOMC Press Conference
+2025-06-18 22:45:00,NZD,GDP q/q
+2025-06-19 01:30:00,AUD,Employment Change
+2025-06-19 07:30:00,CHF,SNB Monetary Policy Assessment
+2025-06-19 08:00:00,CHF,SNB Press Conference
+2025-06-19 11:00:00,GBP,Official Bank Rate
+2025-06-20 06:00:00,GBP,Retail Sales m/m
+2025-06-20 06:40:00,JPY,BOJ Gov Ueda Speaks
+2025-06-22 02:00:00,USD,President Trump Speaks
+2025-06-23 07:15:00,EUR,French Flash Manufacturing PMI
+2025-06-23 07:30:00,EUR,German Flash Manufacturing PMI
+2025-06-23 08:30:00,GBP,Flash Manufacturing PMI
+2025-06-23 13:45:00,USD,Flash Manufacturing PMI
+2025-06-24 08:00:00,GBP,BOE Gov Bailey Speaks
+2025-06-24 12:30:00,CAD,Trimmed CPI y/y
+2025-06-24 14:00:00,GBP,BOE Gov Bailey Speaks
+2025-06-24 14:00:00,USD,Fed Chair Powell Testifies
+2025-06-25 01:30:00,AUD,CPI y/y
+2025-06-25 14:00:00,USD,Fed Chair Powell Testifies
+2025-06-26 11:00:00,GBP,BOE Gov Bailey Speaks
+2025-06-26 12:30:00,USD,Final GDP q/q
+2025-06-27 12:30:00,CAD,GDP m/m
+2025-06-27 12:30:00,USD,Core PCE Price Index m/m
+2025-07-01 13:30:00,GBP,BOE Gov Bailey Speaks
+2025-07-01 13:30:00,JPY,BOJ Gov Ueda Speaks
+2025-07-01 13:30:00,USD,Fed Chair Powell Speaks
+2025-07-01 14:00:00,USD,JOLTS Job Openings
+2025-07-02 12:15:00,USD,ADP Non-Farm Employment Change
+2025-07-03 06:30:00,CHF,CPI m/m
+2025-07-03 12:20:00,GBP,BOE Gov Bailey Speaks
+2025-07-03 12:30:00,USD,Average Hourly Earnings m/m
+2025-07-03 14:00:00,USD,ISM Services PMI
+2025-07-08 04:30:00,AUD,Cash Rate
+2025-07-08 05:30:00,AUD,RBA Press Conference
+2025-07-09 02:00:00,NZD,Official Cash Rate
+2025-07-09 10:00:00,GBP,BOE Gov Bailey Speaks
+2025-07-09 18:00:00,USD,FOMC Meeting Minutes
+2025-07-10 12:30:00,USD,Unemployment Claims
+2025-07-11 06:00:00,GBP,GDP m/m
+2025-07-11 12:30:00,CAD,Employment Change
+2025-07-15 12:30:00,CAD,CPI m/m
+2025-07-15 12:30:00,USD,Core CPI m/m
+2025-07-15 20:00:00,GBP,BOE Gov Bailey Speaks
+2025-07-16 06:00:00,GBP,CPI y/y
+2025-07-16 12:30:00,USD,Core PPI m/m
+2025-07-17 01:30:00,AUD,Employment Change
+2025-07-17 12:30:00,USD,Core Retail Sales m/m
+2025-07-20 12:30:00,JPY,Upper House Elections
+2025-07-20 22:45:00,NZD,CPI q/q
+2025-07-22 09:15:00,GBP,BOE Gov Bailey Speaks
+2025-07-24 03:05:00,AUD,RBA Gov Bullock Speaks
+2025-07-24 07:15:00,EUR,French Flash Manufacturing PMI
+2025-07-24 07:30:00,EUR,German Flash Manufacturing PMI
+2025-07-24 08:30:00,GBP,Flash Services PMI
+2025-07-24 12:15:00,EUR,Monetary Policy Statement
+2025-07-24 12:30:00,USD,Unemployment Claims
+2025-07-24 12:45:00,EUR,ECB Press Conference
+2025-07-24 13:45:00,USD,Flash Manufacturing PMI
+2025-07-29 14:00:00,USD,JOLTS Job Openings
+2025-07-30 01:30:00,AUD,CPI m/m
+2025-07-30 08:00:00,EUR,German Prelim GDP q/q
+2025-07-30 12:15:00,USD,ADP Non-Farm Employment Change
+2025-07-30 12:30:00,USD,Advance GDP q/q
+2025-07-30 13:45:00,CAD,BOC Monetary Policy Report
+2025-07-30 14:30:00,CAD,BOC Press Conference
+2025-07-30 18:00:00,USD,Federal Funds Rate
+2025-07-30 18:30:00,USD,FOMC Press Conference
+2025-07-31 02:57:00,JPY,BOJ Outlook Report
+2025-07-31 06:30:00,JPY,BOJ Press Conference
+2025-07-31 12:30:00,CAD,GDP m/m
+2025-07-31 12:30:00,USD,Core PCE Price Index m/m
+2025-08-01 12:30:00,USD,Average Hourly Earnings m/m
+2025-08-01 14:00:00,USD,ISM Manufacturing PMI
+2025-08-04 06:30:00,CHF,CPI m/m
+2025-08-05 14:00:00,USD,ISM Services PMI
+2025-08-05 22:45:00,NZD,Employment Change q/q
+2025-08-07 11:00:00,GBP,BOE Monetary Policy Report
+2025-08-07 11:30:00,GBP,BOE Gov Bailey Speaks
+2025-08-07 12:30:00,USD,Unemployment Claims
+2025-08-08 12:30:00,CAD,Employment Change
+2025-08-12 04:30:00,AUD,RBA Monetary Policy Statement
+2025-08-12 05:30:00,AUD,RBA Press Conference
+2025-08-12 12:30:00,USD,Core CPI m/m
+2025-08-13 01:30:00,AUD,Wage Price Index q/q
+2025-08-14 01:30:00,AUD,Employment Change
+2025-08-14 06:00:00,GBP,GDP m/m
+2025-08-14 12:30:00,USD,Core PPI m/m
+2025-08-15 12:30:00,USD,Retail Sales m/m
+2025-08-15 14:00:00,USD,Prelim UoM Inflation Expectations
+2025-08-15 22:55:00,USD,President Trump Speaks
+2025-08-19 12:30:00,CAD,CPI m/m
+2025-08-20 02:00:00,NZD,Official Cash Rate
+2025-08-20 03:00:00,NZD,RBNZ Press Conference
+2025-08-20 06:00:00,GBP,CPI y/y
+2025-08-20 18:00:00,USD,FOMC Meeting Minutes
+2025-08-21 07:30:00,EUR,German Flash Manufacturing PMI
+2025-08-21 08:30:00,GBP,Flash Services PMI
+2025-08-21 12:30:00,USD,Unemployment Claims
+2025-08-21 13:45:00,USD,Flash Manufacturing PMI
+2025-08-22 14:00:00,USD,Fed Chair Powell Speaks
+2025-08-23 16:25:00,EUR,ECB President Lagarde Speaks
+2025-08-23 16:25:00,GBP,BOE Gov Bailey Speaks
+2025-08-23 16:25:00,JPY,BOJ Gov Ueda Speaks
+2025-08-26 18:30:00,CAD,BOC Gov Macklem Speaks
+2025-08-27 01:30:00,AUD,CPI y/y
+2025-08-28 12:30:00,USD,Prelim GDP q/q
+2025-08-29 12:30:00,USD,Core PCE Price Index m/m
+2025-08-29 12:30:00,CAD,GDP m/m
+2025-09-02 14:00:00,USD,ISM Manufacturing PMI
+2025-09-03 01:30:00,AUD,GDP q/q
+2025-09-03 08:00:00,AUD,RBA Gov Bullock Speaks
+2025-09-03 13:15:00,GBP,Monetary Policy Report Hearings
+2025-09-03 14:00:00,USD,JOLTS Job Openings
+2025-09-04 06:30:00,CHF,CPI m/m
+2025-09-04 12:15:00,USD,ADP Non-Farm Employment Change
+2025-09-04 12:30:00,USD,Unemployment Claims
+2025-09-04 14:00:00,USD,ISM Services PMI
+2025-09-05 12:30:00,CAD,Employment Change
+2025-09-05 12:30:00,USD,Average Hourly Earnings m/m
+2025-09-09 14:00:00,USD,Prelim Benchmark Payrolls Revision
+2025-09-10 12:30:00,USD,PPI m/m
+2025-09-10 23:15:00,NZD,RBNZ Gov Hawkesby Speaks
+2025-09-11 12:15:00,EUR,Main Refinancing Rate
+2025-09-11 12:30:00,USD,Core CPI m/m
+2025-09-11 12:45:00,EUR,ECB Press Conference
+2025-09-12 06:00:00,GBP,GDP m/m
+2025-09-12 14:00:00,USD,Prelim UoM Consumer Sentiment
+2025-09-16 12:30:00,USD,Retail Sales m/m
+2025-09-16 12:30:00,CAD,Trimmed CPI y/y
+2025-09-17 06:00:00,GBP,CPI y/y
+2025-09-17 13:45:00,CAD,BOC Rate Statement
+2025-09-17 14:30:00,CAD,BOC Press Conference
+2025-09-17 18:00:00,USD,Federal Funds Rate
+2025-09-17 18:30:00,USD,FOMC Press Conference
+2025-09-17 22:45:00,NZD,GDP q/q
+2025-09-18 01:30:00,AUD,Employment Change
+2025-09-18 11:00:00,GBP,Official Bank Rate
+2025-09-18 12:30:00,USD,Unemployment Claims
+2025-09-19 03:47:00,JPY,BOJ Policy Rate
+2025-09-19 06:30:00,JPY,BOJ Press Conference
+2025-09-22 01:00:00,AUD,RBA Gov Bullock Speaks
+2025-09-23 07:30:00,EUR,German Flash Manufacturing PMI
+2025-09-23 08:30:00,GBP,Flash Manufacturing PMI
+2025-09-23 13:45:00,USD,Flash Services PMI
+2025-09-23 16:35:00,USD,Fed Chair Powell Speaks
+2025-09-23 18:15:00,CAD,BOC Gov Macklem Speaks
+2025-09-24 01:30:00,AUD,CPI y/y
+2025-09-25 07:30:00,CHF,SNB Monetary Policy Assessment
+2025-09-25 08:00:00,CHF,SNB Press Conference
+2025-09-25 12:30:00,USD,Final GDP q/q
+2025-09-26 12:30:00,CAD,GDP m/m
+2025-09-26 12:30:00,USD,Core PCE Price Index m/m
+2025-09-30 04:30:00,AUD,Cash Rate
+2025-09-30 05:30:00,AUD,RBA Press Conference
+2025-09-30 14:00:00,USD,JOLTS Job Openings
+2025-10-01 12:15:00,USD,ADP Non-Farm Employment Change
+2025-10-01 14:00:00,USD,ISM Manufacturing PMI
+2025-10-02 06:30:00,CHF,CPI m/m
+2025-10-03 01:05:00,JPY,BOJ Gov Ueda Speaks
+2025-10-03 13:20:00,GBP,BOE Gov Bailey Speaks
+2025-10-03 14:00:00,USD,ISM Services PMI
+2025-10-06 15:00:00,GBP,BOE Gov Bailey Speaks
+2025-10-06 17:00:00,EUR,ECB President Lagarde Speaks
+2025-10-08 01:00:00,NZD,Official Cash Rate
+2025-10-08 18:00:00,USD,FOMC Meeting Minutes
+2025-10-09 22:00:00,AUD,RBA Gov Bullock Speaks
+2025-10-10 12:30:00,CAD,Employment Change
+2025-10-10 14:00:00,USD,Prelim UoM Consumer Sentiment
+2025-10-14 16:20:00,USD,Fed Chair Powell Speaks
+2025-10-14 17:00:00,GBP,BOE Gov Bailey Speaks
+2025-10-15 19:45:00,AUD,RBA Gov Bullock Speaks
+2025-10-16 00:30:00,AUD,Employment Change
+2025-10-16 06:00:00,GBP,GDP m/m
+2025-10-16 17:30:00,CAD,BOC Gov Macklem Speaks
+2025-10-18 13:00:00,GBP,BOE Gov Bailey Speaks
+2025-10-19 21:45:00,NZD,CPI q/q
+2025-10-21 12:30:00,CAD,CPI m/m
+2025-10-22 06:00:00,GBP,CPI y/y
+2025-10-24 07:30:00,EUR,German Flash Manufacturing PMI
+2025-10-24 08:30:00,GBP,Flash Services PMI
+2025-10-24 12:30:00,USD,Core CPI m/m
+2025-10-24 13:45:00,USD,Flash Manufacturing PMI
+2025-10-27 08:15:00,AUD,RBA Gov Bullock Speaks
+2025-10-29 00:30:00,AUD,CPI m/m
+2025-10-29 13:45:00,CAD,BOC Monetary Policy Report
+2025-10-29 14:30:00,CAD,BOC Press Conference
+2025-10-29 18:00:00,USD,FOMC Statement
+2025-10-29 18:30:00,USD,FOMC Press Conference
+2025-10-30 03:15:00,JPY,BOJ Outlook Report
+2025-10-30 06:30:00,JPY,BOJ Press Conference
+2025-10-30 13:15:00,EUR,Main Refinancing Rate
+2025-10-30 13:45:00,EUR,ECB Press Conference
+2025-10-31 12:30:00,CAD,GDP m/m
+2025-11-03 07:30:00,CHF,CPI m/m
+2025-11-03 15:00:00,USD,ISM Manufacturing PMI
+2025-11-03 18:30:00,CAD,BOC Gov Macklem Speaks
+2025-11-04 03:30:00,AUD,RBA Rate Statement
+2025-11-04 04:30:00,AUD,RBA Press Conference
+2025-11-04 21:45:00,NZD,Employment Change q/q
+2025-11-05 13:15:00,USD,ADP Non-Farm Employment Change
+2025-11-05 15:00:00,USD,ISM Services PMI
+2025-11-05 21:30:00,CAD,BOC Gov Macklem Speaks
+2025-11-06 12:00:00,GBP,BOE Monetary Policy Report
+2025-11-06 12:30:00,GBP,BOE Gov Bailey Speaks
+2025-11-06 15:30:00,CAD,BOC Gov Macklem Speaks
+2025-11-07 13:30:00,CAD,Unemployment Rate
+2025-11-11 07:00:00,GBP,Claimant Count Change
+2025-11-13 00:30:00,AUD,Employment Change
+2025-11-13 07:00:00,GBP,GDP m/m
+2025-11-17 13:30:00,CAD,CPI m/m
+2025-11-18 08:10:00,USD,Unemployment Claims
+2025-11-19 00:30:00,AUD,Wage Price Index q/q
+2025-11-19 07:00:00,GBP,CPI y/y
+2025-11-19 19:00:00,USD,FOMC Meeting Minutes
+2025-11-20 13:30:00,USD,Unemployment Rate
+2025-11-21 07:00:00,GBP,Retail Sales m/m
+2025-11-21 08:30:00,EUR,German Flash Manufacturing PMI
+2025-11-21 09:30:00,GBP,Flash Manufacturing PMI
+2025-11-21 14:45:00,USD,Flash Manufacturing PMI
+2025-11-25 13:30:00,USD,Retail Sales m/m
+2025-11-26 00:30:00,AUD,Trimmed Mean CPI m/m
+2025-11-26 01:00:00,NZD,Official Cash Rate
+2025-11-26 02:00:00,NZD,RBNZ Press Conference
+2025-11-26 12:30:00,GBP,Autumn Forecast Statement
+2025-11-26 13:30:00,USD,Unemployment Claims
+2025-11-28 13:30:00,CAD,GDP m/m
+2025-12-01 01:05:00,JPY,BOJ Gov Ueda Speaks
+2025-12-01 15:00:00,USD,ISM Manufacturing PMI
+2025-12-02 10:00:00,GBP,BOE Gov Bailey Speaks
+2025-12-03 00:30:00,AUD,GDP q/q
+2025-12-03 07:30:00,CHF,CPI m/m
+2025-12-03 13:15:00,USD,ADP Non-Farm Employment Change
+2025-12-03 15:00:00,USD,ISM Services PMI
+2025-12-04 13:30:00,USD,Unemployment Claims
+2025-12-05 13:30:00,CAD,Employment Change
+2025-12-05 15:00:00,USD,Core PCE Price Index m/m
+2025-12-09 03:30:00,AUD,Cash Rate
+2025-12-09 04:30:00,AUD,RBA Press Conference
+2025-12-09 09:00:00,JPY,BOJ Gov Ueda Speaks
+2025-12-09 13:15:00,USD,ADP Weekly Employment Change
+2025-12-09 15:00:00,USD,JOLTS Job Openings
+2025-12-10 13:30:00,USD,Employment Cost Index q/q
+2025-12-10 14:45:00,CAD,Overnight Rate
+2025-12-10 15:30:00,CAD,BOC Press Conference
+2025-12-10 19:00:00,USD,Federal Funds Rate
+2025-12-10 19:30:00,USD,FOMC Press Conference
+2025-12-11 00:30:00,AUD,Employment Change
+2025-12-11 08:30:00,CHF,SNB Monetary Policy Assessment
+2025-12-11 09:00:00,CHF,SNB Press Conference
+2025-12-11 13:30:00,USD,Unemployment Claims
+2025-12-12 07:00:00,GBP,GDP m/m
+2025-12-15 13:30:00,CAD,Trimmed CPI y/y
+2025-12-16 07:00:00,GBP,Claimant Count Change
+2025-12-16 08:30:00,EUR,German Flash Manufacturing PMI
+2025-12-16 09:30:00,GBP,Flash Manufacturing PMI
+2025-12-16 13:15:00,USD,ADP Weekly Employment Change
+2025-12-16 13:30:00,USD,Average Hourly Earnings m/m
+2025-12-16 14:45:00,USD,Flash Manufacturing PMI
+2025-12-17 07:00:00,GBP,CPI y/y
+2025-12-17 21:45:00,NZD,GDP q/q
+2025-12-18 12:00:00,GBP,Monetary Policy Summary
+2025-12-18 13:15:00,EUR,Main Refinancing Rate
+2025-12-18 13:30:00,USD,CPI y/y
+2025-12-18 13:45:00,EUR,ECB Press Conference
+2025-12-19 03:19:00,JPY,BOJ Policy Rate
+2025-12-19 06:30:00,JPY,BOJ Press Conference
+2025-12-19 07:00:00,GBP,Retail Sales m/m
+2025-12-23 13:30:00,USD,Prelim GDP q/q
+2025-12-23 13:30:00,CAD,GDP m/m
+2025-12-24 13:30:00,USD,Unemployment Claims
+2025-12-30 19:00:00,USD,FOMC Meeting Minutes
+2025-12-31 13:30:00,USD,Unemployment Claims
+2026-01-05 15:00:00,USD,ISM Manufacturing PMI
+2026-01-07 00:30:00,AUD,CPI m/m
+2026-01-07 13:15:00,USD,ADP Non-Farm Employment Change
+2026-01-07 15:00:00,USD,ISM Services PMI
+2026-01-08 07:30:00,CHF,CPI m/m
+2026-01-08 13:30:00,USD,Unemployment Claims
+2026-01-09 13:30:00,USD,Unemployment Rate
+2026-01-09 13:30:00,CAD,Unemployment Rate
+2026-01-09 15:00:00,USD,Prelim UoM Consumer Sentiment
+2026-01-13 13:30:00,USD,Core CPI m/m
+2026-01-14 13:30:00,USD,Core PPI m/m
+2026-01-15 07:00:00,GBP,GDP m/m
+2026-01-15 13:30:00,USD,Unemployment Claims
+2026-01-16 10:00:00,GBP,BOE Gov Bailey Speaks
+2026-01-19 13:30:00,CAD,CPI m/m
+2026-01-20 07:00:00,GBP,Claimant Count Change
+2026-01-20 09:45:00,GBP,BOE Gov Bailey Speaks
+2026-01-21 07:00:00,GBP,CPI y/y
+2026-01-22 00:30:00,AUD,Employment Change
+2026-01-22 13:30:00,USD,Final GDP q/q
+2026-01-22 15:00:00,USD,Core PCE Price Index m/m
+2026-01-22 21:45:00,NZD,CPI q/q
+2026-01-23 03:07:00,JPY,BOJ Policy Rate
+2026-01-23 06:30:00,JPY,BOJ Press Conference
+2026-01-23 07:00:00,GBP,Retail Sales m/m
+2026-01-23 08:30:00,EUR,German Flash Manufacturing PMI
+2026-01-23 09:30:00,GBP,Flash Manufacturing PMI
+2026-01-23 14:45:00,USD,Flash Manufacturing PMI
+2026-01-28 00:30:00,AUD,CPI m/m
+2026-01-28 14:45:00,CAD,Overnight Rate
+2026-01-28 15:30:00,CAD,BOC Press Conference
+2026-01-28 19:00:00,USD,Federal Funds Rate
+2026-01-28 19:30:00,USD,FOMC Press Conference
+2026-01-29 13:30:00,USD,Unemployment Claims
+2026-01-30 13:30:00,CAD,GDP m/m
+2026-01-30 13:30:00,USD,Core PPI m/m
+2026-02-02 15:00:00,USD,ISM Manufacturing PMI
+2026-02-03 03:30:00,AUD,Cash Rate
+2026-02-03 04:30:00,AUD,RBA Press Conference
+2026-02-03 15:00:00,USD,JOLTS Job Openings
+2026-02-03 21:45:00,NZD,Unemployment Rate
+2026-02-04 13:15:00,USD,ADP Non-Farm Employment Change
+2026-02-04 15:00:00,USD,ISM Services PMI
+2026-02-05 12:00:00,GBP,BOE Monetary Policy Report
+2026-02-05 13:15:00,EUR,Main Refinancing Rate
+2026-02-05 13:30:00,USD,Unemployment Claims
+2026-02-05 13:45:00,EUR,ECB Press Conference
+2026-02-06 13:30:00,USD,Unemployment Rate
+2026-02-06 13:30:00,CAD,Employment Change
+2026-02-06 15:00:00,USD,Prelim UoM Consumer Sentiment
+2026-02-08 15:00:00,JPY,Lower House Elections
+2026-02-10 13:30:00,USD,Core Retail Sales m/m
+2026-02-11 13:30:00,USD,Core CPI m/m
+2026-02-12 07:00:00,GBP,GDP m/m
+2026-02-12 13:30:00,USD,Unemployment Claims
+2026-02-13 07:30:00,CHF,CPI m/m
+2026-02-16 13:30:00,CAD,Median CPI y/y
+2026-02-17 07:00:00,GBP,Claimant Count Change
+2026-02-18 01:00:00,NZD,Official Cash Rate
+2026-02-18 02:00:00,NZD,RBNZ Press Conference
+2026-02-18 07:00:00,GBP,CPI y/y
+2026-02-18 19:00:00,USD,FOMC Meeting Minutes
+2026-02-19 00:30:00,AUD,Employment Change
+2026-02-19 13:30:00,USD,Unemployment Claims
+2026-02-20 07:00:00,GBP,Retail Sales m/m
+2026-02-20 08:30:00,EUR,German Flash Services PMI
+2026-02-20 09:30:00,GBP,Flash Services PMI
+2026-02-20 13:30:00,USD,Advance GDP q/q
+2026-02-20 14:45:00,USD,Flash Manufacturing PMI
+2026-02-25 00:30:00,AUD,CPI y/y
+2026-02-26 13:30:00,USD,Unemployment Claims
+2026-02-27 13:30:00,CAD,GDP m/m
+2026-02-27 13:30:00,USD,Core PPI m/m
+2026-03-02 15:00:00,USD,ISM Manufacturing PMI
+2026-03-03 15:00:00,USD,JOLTS Job Openings
+2026-03-04 00:30:00,AUD,GDP q/q
+2026-03-04 07:30:00,CHF,CPI m/m
+2026-03-04 13:15:00,USD,ADP Non-Farm Employment Change
+2026-03-04 15:00:00,USD,ISM Services PMI

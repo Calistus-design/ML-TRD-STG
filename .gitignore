@@ -1,0 +1,5 @@
+    /data/raw/*
+    /data/cleaned/*
+    
+    !/data/raw/.gitkeep
+    !/data/cleaned/.gitkeep
