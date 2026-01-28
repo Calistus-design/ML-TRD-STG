@@ -1,5 +1,7 @@
-    /data/raw/*
-    /data/cleaned/*
-    
-    !/data/raw/.gitkeep
-    !/data/cleaned/.gitkeep
+# Ignore entire data directories
+data/raw/**
+data/cleaned/**
+
+# Allow folder placeholders
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep

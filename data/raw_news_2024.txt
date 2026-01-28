@@ -1,0 +1,3853 @@
+Mon
+Jan 1
+Tue
+Jan 2
+Wed
+Jan 3
+15:00
+USD		
+ISM Manufacturing PMI
+47.4	47.2	46.7	
+USD		
+JOLTS Job Openings
+8.79M	8.84M	8.85M	
+19:00
+USD		
+FOMC Meeting Minutes
+Thu
+Jan 4
+All Day
+EUR		
+German Prelim CPI m/m
+0.1%	0.2%	-0.4%	
+13:15
+USD		
+ADP Non-Farm Employment Change
+164K	120K	101K	
+13:30
+USD		
+Unemployment Claims
+202K	217K	220K	
+Fri
+Jan 5
+13:30
+CAD		
+Employment Change
+0.1K	12.2K	24.9K	
+CAD		
+Unemployment Rate
+5.8%	5.9%	5.8%	
+USD		
+Average Hourly Earnings m/m
+0.4%	0.3%	0.4%	
+USD		
+Non-Farm Employment Change
+216K	168K	173K	
+USD		
+Unemployment Rate
+3.7%	3.8%	3.7%	
+15:00
+USD		
+ISM Services PMI
+50.6	52.5	52.7	
+Sat
+Jan 6
+Sun
+Jan 7
+Mon
+Jan 8
+7:30
+CHF		
+CPI m/m
+0.0%	-0.1%	-0.2%	
+Tue
+Jan 9
+Wed
+Jan 10
+0:30
+AUD		
+CPI y/y
+4.3%	4.4%	4.9%	
+14:15
+GBP		
+BOE Gov Bailey Speaks
+Thu
+Jan 11
+13:30
+USD		
+Core CPI m/m
+0.3%	0.3%	0.3%	
+USD		
+CPI m/m
+0.3%	0.2%	0.1%	
+USD		
+CPI y/y
+3.4%	3.2%	3.1%	
+USD		
+Unemployment Claims
+202K	209K	203K	
+Fri
+Jan 12
+1:30
+CNY		
+CPI y/y
+-0.3%	-0.4%	-0.5%	
+7:00
+GBP		
+GDP m/m
+0.3%	0.2%	-0.3%	
+13:30
+USD		
+Core PPI m/m
+0.0%	0.2%	0.0%	
+USD		
+PPI m/m
+-0.1%	0.1%	-0.1%	
+Sat
+Jan 13
+Sun
+Jan 14
+Mon
+Jan 15
+Tue
+Jan 16
+7:00
+GBP		
+Claimant Count Change
+11.7K	18.1K	0.6K	
+13:30
+CAD		
+CPI m/m
+-0.3%	-0.3%	0.1%	
+CAD		
+Median CPI y/y
+3.6%	3.3%	3.6%	
+CAD		
+Trimmed CPI y/y
+3.7%	3.4%	3.5%	
+USD		
+Empire State Manufacturing Index
+-43.7	-4.9	-14.5	
+15:00
+GBP		
+BOE Gov Bailey Speaks
+Wed
+Jan 17
+2:00
+CNY		
+Industrial Production y/y
+6.8%	6.6%	6.6%	
+7:00
+GBP		
+CPI y/y
+4.0%	3.8%	3.9%	
+13:30
+USD		
+Core Retail Sales m/m
+0.4%	0.2%	0.2%	
+USD		
+Retail Sales m/m
+0.6%	0.4%	0.3%	
+Thu
+Jan 18
+0:30
+AUD		
+Employment Change
+-65.1K	15.4K	72.6K	
+AUD		
+Unemployment Rate
+3.9%	3.9%	3.9%	
+13:30
+USD		
+Unemployment Claims
+187K	206K	203K	
+Fri
+Jan 19
+7:00
+GBP		
+Retail Sales m/m
+-3.2%	-0.5%	1.4%	
+15:00
+USD		
+Prelim UoM Consumer Sentiment
+78.8	69.8	69.7	
+Sat
+Jan 20
+Sun
+Jan 21
+Mon
+Jan 22
+Tue
+Jan 23
+3:09
+JPY		
+BOJ Outlook Report
+JPY		
+Monetary Policy Statement
+6:30
+JPY		
+BOJ Press Conference
+21:45
+NZD		
+CPI q/q
+0.5%	0.5%	1.8%	
+Wed
+Jan 24
+8:15
+EUR		
+French Flash Manufacturing PMI
+43.2	42.5	42.1	
+EUR		
+French Flash Services PMI
+45.0	46.1	45.7	
+8:30
+EUR		
+German Flash Manufacturing PMI
+45.4	43.7	43.3	
+EUR		
+German Flash Services PMI
+47.6	49.3	49.3	
+9:30
+GBP		
+Flash Manufacturing PMI
+47.3	46.7	46.2	
+GBP		
+Flash Services PMI
+53.8	53.1	53.4	
+14:45
+CAD		
+BOC Monetary Policy Report
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+5.00%	5.00%	5.00%	
+USD		
+Flash Manufacturing PMI
+50.3	47.6	47.9	
+USD		
+Flash Services PMI
+52.9	51.4	51.4	
+15:30
+CAD		
+BOC Press Conference
+Thu
+Jan 25
+13:15
+EUR		
+Main Refinancing Rate
+4.50%	4.50%	4.50%	
+EUR		
+Monetary Policy Statement
+13:30
+USD		
+Advance GDP q/q
+3.3%	2.0%	4.9%	
+USD		
+Unemployment Claims
+214K	199K	189K	
+13:45
+EUR		
+ECB Press Conference
+Fri
+Jan 26
+13:30
+USD		
+Core PCE Price Index m/m
+0.2%	0.2%	0.1%	
+Sat
+Jan 27
+Sun
+Jan 28
+Mon
+Jan 29
+Tue
+Jan 30
+15:00
+USD		
+CB Consumer Confidence
+114.8	114.2	108.0	
+USD		
+JOLTS Job Openings
+9.03M	8.73M	8.93M	
+Wed
+Jan 31
+0:30
+AUD		
+CPI m/m
+0.6%	0.8%	1.2%	
+AUD		
+CPI y/y
+3.4%	3.7%	4.3%	
+AUD		
+Trimmed Mean CPI m/m
+0.8%	0.9%	1.2%	
+1:30
+CNY		
+Manufacturing PMI
+49.2	49.3	49.0	
+All Day
+EUR		
+German Prelim CPI m/m
+0.2%	0.1%	0.1%	
+13:15
+USD		
+ADP Non-Farm Employment Change
+107K	148K	158K	
+13:30
+CAD		
+GDP m/m
+0.2%	0.1%	0.0%	
+USD		
+Employment Cost Index q/q
+0.9%	1.0%	1.1%	
+19:00
+USD		
+Federal Funds Rate
+5.50%	5.50%	5.50%	
+USD		
+FOMC Statement
+19:30
+USD		
+FOMC Press Conference
+Thu
+Feb 1
+12:00
+GBP		
+BOE Monetary Policy Report
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+2-1-6	2-0-7	3-0-6	
+GBP		
+Official Bank Rate
+5.25%	5.25%	5.25%	
+12:30
+GBP		
+BOE Gov Bailey Speaks
+13:30
+USD		
+Unemployment Claims
+224K	213K	215K	
+15:00
+USD		
+ISM Manufacturing PMI
+49.1	47.2	47.4	
+16:30
+CAD		
+BOC Gov Macklem Speaks
+Fri
+Feb 2
+13:30
+USD		
+Average Hourly Earnings m/m
+0.6%	0.3%	0.4%	
+USD		
+Non-Farm Employment Change
+353K	187K	333K	
+USD		
+Unemployment Rate
+3.7%	3.8%	3.7%	
+15:00
+USD		
+Revised UoM Consumer Sentiment
+79.0	78.9	78.8	
+Sat
+Feb 3
+Sun
+Feb 4
+Mon
+Feb 5
+0:00
+USD		
+Fed Chair Powell Speaks
+15:00
+USD		
+ISM Services PMI
+53.4	52.0	50.6	
+Tue
+Feb 6
+3:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Rate Statement
+4:30
+AUD		
+RBA Press Conference
+17:45
+CAD		
+BOC Gov Macklem Speaks
+21:45
+NZD		
+Employment Change q/q
+0.4%	0.3%	-0.1%	
+NZD		
+Unemployment Rate
+4.0%	4.3%	3.9%	
+Wed
+Feb 7
+Thu
+Feb 8
+13:30
+USD		
+Unemployment Claims
+218K	221K	227K	
+22:30
+AUD		
+RBA Gov Bullock Speaks
+Fri
+Feb 9
+13:30
+CAD		
+Employment Change
+37.3K	16.0K	0.1K	
+CAD		
+Unemployment Rate
+5.7%	5.9%	5.8%	
+Sat
+Feb 10
+Sun
+Feb 11
+Mon
+Feb 12
+18:00
+GBP		
+BOE Gov Bailey Speaks
+Tue
+Feb 13
+2:20
+NZD		
+Inflation Expectations q/q
+2.50%		2.76%	
+7:00
+GBP		
+Claimant Count Change
+14.1K	15.2K	5.5K	
+7:30
+CHF		
+CPI m/m
+0.2%	0.6%	0.0%	
+13:30
+USD		
+Core CPI m/m
+0.4%	0.3%	0.3%	
+USD		
+CPI m/m
+0.3%	0.2%	0.3%	
+USD		
+CPI y/y
+3.1%	2.9%	3.4%	
+Wed
+Feb 14
+7:00
+GBP		
+CPI y/y
+4.0%	4.1%	4.0%	
+15:00
+GBP		
+BOE Gov Bailey Speaks
+22:00
+AUD		
+RBA Gov Bullock Speaks
+Thu
+Feb 15
+0:30
+AUD		
+Employment Change
+0.5K	26.4K	-62.7K	
+AUD		
+Unemployment Rate
+4.1%	4.0%	3.9%	
+7:00
+GBP		
+GDP m/m
+-0.1%	-0.2%	0.2%	
+13:30
+USD		
+Core Retail Sales m/m
+-0.6%	0.2%	0.4%	
+USD		
+Empire State Manufacturing Index
+-2.4	-13.7	-43.7	
+USD		
+Retail Sales m/m
+-0.8%	-0.2%	0.4%	
+USD		
+Unemployment Claims
+212K	219K	220K	
+Fri
+Feb 16
+7:00
+GBP		
+Retail Sales m/m
+3.4%	1.5%	-3.3%	
+13:30
+USD		
+Core PPI m/m
+0.5%	0.1%	-0.1%	
+USD		
+PPI m/m
+0.3%	0.1%	-0.1%	
+15:00
+USD		
+Prelim UoM Consumer Sentiment
+79.6	80.0	79.0	
+Sat
+Feb 17
+Sun
+Feb 18
+Mon
+Feb 19
+Tue
+Feb 20
+0:30
+AUD		
+Monetary Policy Meeting Minutes
+13:30
+CAD		
+CPI m/m
+0.0%	0.4%	-0.3%	
+CAD		
+Median CPI y/y
+3.3%	3.6%	3.5%	
+CAD		
+Trimmed CPI y/y
+3.4%	3.6%	3.7%	
+Wed
+Feb 21
+0:30
+AUD		
+Wage Price Index q/q
+0.9%	0.9%	1.3%	
+19:00
+USD		
+FOMC Meeting Minutes
+Thu
+Feb 22
+8:15
+EUR		
+French Flash Manufacturing PMI
+46.8	43.5	43.1	
+EUR		
+French Flash Services PMI
+48.0	45.7	45.4	
+8:30
+EUR		
+German Flash Manufacturing PMI
+42.3	46.1	45.5	
+EUR		
+German Flash Services PMI
+48.2	48.0	47.7	
+9:30
+GBP		
+Flash Manufacturing PMI
+47.1	47.5	47.0	
+GBP		
+Flash Services PMI
+54.3	54.2	54.3	
+13:30
+USD		
+Unemployment Claims
+201K	217K	213K	
+14:45
+USD		
+Flash Manufacturing PMI
+51.5	50.5	50.7	
+USD		
+Flash Services PMI
+51.3	52.4	52.5	
+Fri
+Feb 23
+Sat
+Feb 24
+Sun
+Feb 25
+Mon
+Feb 26
+Tue
+Feb 27
+13:30
+USD		
+Durable Goods Orders m/m
+-6.1%	-4.9%	-0.3%	
+15:00
+USD		
+CB Consumer Confidence
+106.7	114.8	110.9	
+Wed
+Feb 28
+0:30
+AUD		
+CPI y/y
+3.4%	3.6%	3.4%	
+1:00
+NZD		
+Official Cash Rate
+5.50%	5.50%	5.50%	
+NZD		
+RBNZ Monetary Policy Statement
+NZD		
+RBNZ Rate Statement
+13:30
+USD		
+Prelim GDP q/q
+3.2%	3.3%	3.3%	
+Thu
+Feb 29
+All Day
+EUR		
+German Prelim CPI m/m
+0.4%	0.5%	0.2%	
+13:30
+CAD		
+GDP m/m
+0.0%	0.2%	0.2%	
+USD		
+Core PCE Price Index m/m
+0.4%	0.4%	0.1%	
+USD		
+Unemployment Claims
+215K	209K	202K	
+Fri
+Mar 1
+1:30
+CNY		
+Manufacturing PMI
+49.1	49.1	49.2	
+15:00
+USD		
+ISM Manufacturing PMI
+47.8	49.5	49.1	
+USD		
+Revised UoM Consumer Sentiment
+76.9	79.6	79.6	
+Sat
+Mar 2
+Sun
+Mar 3
+Mon
+Mar 4
+7:30
+CHF		
+CPI m/m
+0.6%	0.5%	0.2%	
+Tue
+Mar 5
+4:00
+JPY		
+BOJ Gov Ueda Speaks
+15:00
+USD		
+ISM Services PMI
+52.6	53.0	53.4	
+Wed
+Mar 6
+0:30
+AUD		
+GDP q/q
+0.2%	0.2%	0.3%	
+12:34
+GBP		
+Annual Budget Release
+13:15
+USD		
+ADP Non-Farm Employment Change
+140K	149K	111K	
+14:45
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+5.00%	5.00%	5.00%	
+15:00
+USD		
+Fed Chair Powell Testifies
+USD		
+JOLTS Job Openings
+8.86M	8.80M	8.89M	
+15:30
+CAD		
+BOC Press Conference
+Thu
+Mar 7
+13:15
+EUR		
+Main Refinancing Rate
+4.50%	4.50%	4.50%	
+EUR		
+Monetary Policy Statement
+13:30
+USD		
+Unemployment Claims
+217K	217K	217K	
+13:45
+EUR		
+ECB Press Conference
+15:00
+USD		
+Fed Chair Powell Testifies
+Fri
+Mar 8
+13:30
+CAD		
+Employment Change
+40.7K	21.1K	37.3K	
+CAD		
+Unemployment Rate
+5.8%	5.8%	5.7%	
+USD		
+Average Hourly Earnings m/m
+0.1%	0.2%	0.5%	
+USD		
+Non-Farm Employment Change
+275K	198K	229K	
+USD		
+Unemployment Rate
+3.9%	3.7%	3.7%	
+Sat
+Mar 9
+Sun
+Mar 10
+Mon
+Mar 11
+Tue
+Mar 12
+7:00
+GBP		
+Claimant Count Change
+16.8K	20.3K	3.1K	
+12:30
+USD		
+Core CPI m/m
+0.4%	0.3%	0.4%	
+USD		
+CPI m/m
+0.4%	0.4%	0.3%	
+USD		
+CPI y/y
+3.2%	3.1%	3.1%	
+17:01
+USD		
+10-y Bond Auction
+4.17|2.5		4.09|2.6	
+Wed
+Mar 13
+7:00
+GBP		
+GDP m/m
+0.2%	0.2%	-0.1%	
+17:01
+USD		
+30-y Bond Auction
+4.33|2.5		4.36|2.4	
+Thu
+Mar 14
+12:30
+USD		
+Core PPI m/m
+0.3%	0.2%	0.5%	
+USD		
+Core Retail Sales m/m
+0.3%	0.5%	-0.8%	
+USD		
+PPI m/m
+0.6%	0.3%	0.3%	
+USD		
+Retail Sales m/m
+0.6%	0.8%	-1.1%	
+USD		
+Unemployment Claims
+209K	218K	210K	
+Fri
+Mar 15
+12:30
+USD		
+Empire State Manufacturing Index
+-20.9	-7.0	-2.4	
+14:00
+USD		
+Prelim UoM Consumer Sentiment
+76.5	77.1	76.9	
+Sat
+Mar 16
+Sun
+Mar 17
+Mon
+Mar 18
+2:00
+CNY		
+Industrial Production y/y
+7.0%	5.3%	6.8%	
+Tue
+Mar 19
+3:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Rate Statement
+3:36
+JPY		
+BOJ Policy Rate
+<0.10%	-0.10%	-0.10%	
+JPY		
+Monetary Policy Statement
+4:30
+AUD		
+RBA Press Conference
+6:30
+JPY		
+BOJ Press Conference
+12:30
+CAD		
+CPI m/m
+0.3%	0.6%	0.0%	
+CAD		
+Median CPI y/y
+3.1%	3.3%	3.3%	
+CAD		
+Trimmed CPI y/y
+3.2%	3.4%	3.4%	
+Wed
+Mar 20
+7:00
+GBP		
+CPI y/y
+3.4%	3.5%	4.0%	
+18:00
+USD		
+Federal Funds Rate
+5.50%	5.50%	5.50%	
+USD		
+FOMC Economic Projections
+USD		
+FOMC Statement
+18:30
+USD		
+FOMC Press Conference
+21:45
+NZD		
+GDP q/q
+-0.1%	0.1%	-0.3%	
+Thu
+Mar 21
+0:30
+AUD		
+Employment Change
+116.5K	39.7K	15.3K	
+AUD		
+Unemployment Rate
+3.7%	4.0%	4.1%	
+8:15
+EUR		
+French Flash Manufacturing PMI
+45.8	47.5	47.1	
+EUR		
+French Flash Services PMI
+47.8	48.8	48.4	
+8:30
+CHF		
+SNB Monetary Policy Assessment
+CHF		
+SNB Policy Rate
+1.50%	1.75%	1.75%	
+EUR		
+German Flash Manufacturing PMI
+41.6	43.1	42.5	
+EUR		
+German Flash Services PMI
+49.8	48.8	48.3	
+9:00
+CHF		
+SNB Press Conference
+9:30
+GBP		
+Flash Manufacturing PMI
+49.9	47.9	47.5	
+GBP		
+Flash Services PMI
+53.4	53.8	53.8	
+12:00
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-1-8	0-1-8	2-1-6	
+GBP		
+Official Bank Rate
+5.25%	5.25%	5.25%	
+12:30
+USD		
+Unemployment Claims
+210K	212K	212K	
+13:45
+USD		
+Flash Manufacturing PMI
+52.5	51.8	52.2	
+USD		
+Flash Services PMI
+51.7	52.0	52.3	
+Fri
+Mar 22
+7:00
+GBP		
+Retail Sales m/m
+0.0%	-0.4%	3.6%	
+All Day
+EUR		
+Euro Summit
+13:00
+USD		
+Fed Chair Powell Speaks
+Sat
+Mar 23
+Sun
+Mar 24
+Mon
+Mar 25
+Tue
+Mar 26
+14:00
+USD		
+CB Consumer Confidence
+104.7	106.9	104.8	
+Wed
+Mar 27
+0:30
+AUD		
+CPI y/y
+3.4%	3.5%	3.4%	
+22:00
+USD		
+FOMC Member Waller Speaks
+Thu
+Mar 28
+12:30
+CAD		
+GDP m/m
+0.6%	0.4%	-0.1%	
+USD		
+Final GDP q/q
+3.4%	3.2%	3.2%	
+USD		
+Unemployment Claims
+210K	212K	212K	
+14:00
+USD		
+Pending Home Sales m/m
+1.6%	1.4%	-4.7%	
+USD		
+Revised UoM Consumer Sentiment
+79.4	76.5	76.5	
+Fri
+Mar 29
+12:30
+USD		
+Core PCE Price Index m/m
+0.3%	0.3%	0.5%	
+15:30
+USD		
+Fed Chair Powell Speaks
+Sat
+Mar 30
+Sun
+Mar 31
+1:30
+CNY		
+Manufacturing PMI
+50.8	50.1	49.1	
+Mon
+Apr 1
+14:00
+USD		
+ISM Manufacturing PMI
+50.3	48.5	47.8	
+Tue
+Apr 2
+All Day
+EUR		
+German Prelim CPI m/m
+0.4%	0.5%	0.4%	
+14:00
+USD		
+JOLTS Job Openings
+8.76M	8.76M	8.75M	
+Wed
+Apr 3
+12:15
+USD		
+ADP Non-Farm Employment Change
+184K	148K	155K	
+14:00
+USD		
+ISM Services PMI
+51.4	52.8	52.6	
+16:10
+USD		
+Fed Chair Powell Speaks
+Thu
+Apr 4
+6:30
+CHF		
+CPI m/m
+0.0%	0.3%	0.6%	
+12:30
+USD		
+Unemployment Claims
+221K	213K	212K	
+Fri
+Apr 5
+12:30
+CAD		
+Employment Change
+-2.2K	25.9K	40.7K	
+CAD		
+Unemployment Rate
+6.1%	5.9%	5.8%	
+USD		
+Average Hourly Earnings m/m
+0.3%	0.3%	0.2%	
+USD		
+Non-Farm Employment Change
+303K	212K	270K	
+USD		
+Unemployment Rate
+3.8%	3.9%	3.9%	
+Sat
+Apr 6
+Sun
+Apr 7
+Mon
+Apr 8
+Tue
+Apr 9
+Wed
+Apr 10
+2:00
+NZD		
+Official Cash Rate
+5.50%	5.50%	5.50%	
+NZD		
+RBNZ Rate Statement
+12:30
+USD		
+Core CPI m/m
+0.4%	0.3%	0.4%	
+USD		
+CPI m/m
+0.4%	0.3%	0.4%	
+USD		
+CPI y/y
+3.5%	3.4%	3.2%	
+13:45
+CAD		
+BOC Monetary Policy Report
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+5.00%	5.00%	5.00%	
+14:30
+CAD		
+BOC Press Conference
+18:00
+USD		
+FOMC Meeting Minutes
+Thu
+Apr 11
+12:15
+EUR		
+Main Refinancing Rate
+4.50%	4.50%	4.50%	
+EUR		
+Monetary Policy Statement
+12:30
+USD		
+Core PPI m/m
+0.2%	0.2%	0.3%	
+USD		
+PPI m/m
+0.2%	0.3%	0.6%	
+USD		
+Unemployment Claims
+211K	216K	222k	
+12:45
+EUR		
+ECB Press Conference
+17:01
+USD		
+30-y Bond Auction
+4.67|2.4		4.33|2.5	
+Fri
+Apr 12
+6:00
+GBP		
+GDP m/m
+0.1%	0.1%	0.3%	
+14:00
+USD		
+Prelim UoM Consumer Sentiment
+77.9	79.0	79.4	
+Sat
+Apr 13
+Sun
+Apr 14
+Mon
+Apr 15
+12:30
+USD		
+Core Retail Sales m/m
+1.1%	0.5%	0.6%	
+USD		
+Empire State Manufacturing Index
+-14.3	-5.2	-20.9	
+USD		
+Retail Sales m/m
+0.7%	0.4%	0.9%	
+Tue
+Apr 16
+2:00
+CNY		
+Industrial Production y/y
+4.5%	6.0%	7.0%	
+6:00
+GBP		
+Claimant Count Change
+10.9K	17.2K	4.1K	
+12:30
+CAD		
+CPI m/m
+0.6%	0.7%	0.3%	
+CAD		
+Median CPI y/y
+2.8%	3.0%	3.0%	
+CAD		
+Trimmed CPI y/y
+3.1%	3.2%	3.2%	
+17:00
+GBP		
+BOE Gov Bailey Speaks
+17:15
+CAD		
+BOC Gov Macklem Speaks
+USD		
+Fed Chair Powell Speaks
+22:45
+NZD		
+CPI q/q
+0.6%	0.6%	0.5%	
+Wed
+Apr 17
+6:00
+GBP		
+CPI y/y
+3.2%	3.1%	3.4%	
+16:00
+GBP		
+BOE Gov Bailey Speaks
+Thu
+Apr 18
+1:30
+AUD		
+Employment Change
+-6.6K	7.2K	117.6K	
+AUD		
+Unemployment Rate
+3.8%	3.9%	3.7%	
+12:30
+USD		
+Unemployment Claims
+212K	215K	212K	
+Fri
+Apr 19
+6:00
+GBP		
+Retail Sales m/m
+0.0%	0.3%	0.1%	
+Sat
+Apr 20
+Sun
+Apr 21
+Mon
+Apr 22
+Tue
+Apr 23
+7:15
+EUR		
+French Flash Manufacturing PMI
+44.9	46.9	46.2	
+EUR		
+French Flash Services PMI
+50.5	48.9	48.3	
+7:30
+EUR		
+German Flash Manufacturing PMI
+42.2	42.8	41.9	
+EUR		
+German Flash Services PMI
+53.3	50.6	50.1	
+8:30
+GBP		
+Flash Manufacturing PMI
+48.7	50.3	50.3	
+GBP		
+Flash Services PMI
+54.9	53.0	53.1	
+13:45
+USD		
+Flash Manufacturing PMI
+49.9	52.0	51.9	
+USD		
+Flash Services PMI
+50.9	52.0	51.7	
+Wed
+Apr 24
+1:30
+AUD		
+CPI m/m
+1.0%	0.8%	0.6%	
+AUD		
+CPI y/y
+3.5%	3.4%	3.4%	
+AUD		
+Trimmed Mean CPI m/m
+1.0%	0.8%	0.8%	
+Thu
+Apr 25
+12:30
+USD		
+Advance GDP q/q
+1.6%	2.5%	3.4%	
+USD		
+Unemployment Claims
+207K	214K	212K	
+14:00
+USD		
+Pending Home Sales m/m
+3.4%	0.3%	1.6%	
+Fri
+Apr 26
+3:22
+JPY		
+BOJ Outlook Report
+JPY		
+BOJ Policy Rate
+<0.10%	<0.10%	<0.10%	
+JPY		
+Monetary Policy Statement
+6:30
+JPY		
+BOJ Press Conference
+12:30
+USD		
+Core PCE Price Index m/m
+0.3%	0.3%	0.3%	
+14:00
+USD		
+Revised UoM Consumer Sentiment
+77.2	77.9	77.9	
+Sat
+Apr 27
+Sun
+Apr 28
+Mon
+Apr 29
+All Day
+EUR		
+German Prelim CPI m/m
+0.5%	0.6%	0.4%	
+Tue
+Apr 30
+1:30
+CNY		
+Manufacturing PMI
+50.4	50.3	50.8	
+12:30
+CAD		
+GDP m/m
+0.2%	0.3%	0.5%	
+USD		
+Employment Cost Index q/q
+1.2%	1.0%	0.9%	
+14:00
+USD		
+CB Consumer Confidence
+97.0	104.0	103.1	
+22:45
+NZD		
+Employment Change q/q
+-0.2%	0.3%	0.4%	
+NZD		
+Unemployment Rate
+4.3%	4.3%	4.0%	
+Wed
+May 1
+12:15
+USD		
+ADP Non-Farm Employment Change
+192K	179K	208K	
+13:45
+USD		
+Final Manufacturing PMI
+50.0	49.9	49.9	
+14:00
+USD		
+ISM Manufacturing PMI
+49.2	50.0	50.3	
+USD		
+JOLTS Job Openings
+8.49M	8.68M	8.81M	
+18:00
+USD		
+Federal Funds Rate
+5.50%	5.50%	5.50%	
+USD		
+FOMC Statement
+18:30
+USD		
+FOMC Press Conference
+20:15
+CAD		
+BOC Gov Macklem Speaks
+Thu
+May 2
+6:30
+CHF		
+CPI m/m
+0.3%	0.1%	0.0%	
+12:30
+USD		
+Unemployment Claims
+208K	212K	208K	
+12:45
+CAD		
+BOC Gov Macklem Speaks
+Fri
+May 3
+12:30
+USD		
+Average Hourly Earnings m/m
+0.2%	0.3%	0.3%	
+USD		
+Non-Farm Employment Change
+175K	238K	315K	
+USD		
+Unemployment Rate
+3.9%	3.8%	3.8%	
+14:00
+USD		
+ISM Services PMI
+49.4	52.0	51.4	
+Sat
+May 4
+Sun
+May 5
+Mon
+May 6
+Tue
+May 7
+4:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Monetary Policy Statement
+AUD		
+RBA Rate Statement
+Wed
+May 8
+Thu
+May 9
+11:00
+GBP		
+BOE Monetary Policy Report
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-2-7	0-0-9	0-1-8	
+GBP		
+Official Bank Rate
+5.25%	5.25%	5.25%	
+11:30
+GBP		
+BOE Gov Bailey Speaks
+12:30
+USD		
+Unemployment Claims
+231K	212K	209K	
+15:00
+CAD		
+BOC Gov Macklem Speaks
+17:01
+USD		
+30-y Bond Auction
+4.64|2.4		4.67|2.4	
+Fri
+May 10
+6:00
+GBP		
+GDP m/m
+0.4%	0.1%	0.2%	
+12:30
+CAD		
+Employment Change
+90.4K	20.9K	-2.2K	
+CAD		
+Unemployment Rate
+6.1%	6.2%	6.1%	
+14:00
+USD		
+Prelim UoM Consumer Sentiment
+67.4	76.3	77.2	
+Sat
+May 11
+Sun
+May 12
+Mon
+May 13
+3:00
+NZD		
+Inflation Expectations q/q
+2.33%		2.50%	
+Tue
+May 14
+6:00
+GBP		
+Claimant Count Change
+8.9K	13.9K	-2.4K	
+12:30
+USD		
+Core PPI m/m
+0.5%	0.2%	-0.1%	
+USD		
+PPI m/m
+0.5%	0.3%	-0.1%	
+14:00
+USD		
+Fed Chair Powell Speaks
+Wed
+May 15
+1:30
+AUD		
+Wage Price Index q/q
+0.8%	0.9%	1.0%	
+12:30
+USD		
+Core CPI m/m
+0.3%	0.3%	0.4%	
+USD		
+Core Retail Sales m/m
+0.2%	0.2%	0.9%	
+USD		
+CPI m/m
+0.3%	0.4%	0.4%	
+USD		
+CPI y/y
+3.4%	3.4%	3.5%	
+USD		
+Empire State Manufacturing Index
+-15.6	-9.9	-14.3	
+USD		
+Retail Sales m/m
+0.0%	0.4%	0.6%	
+Thu
+May 16
+1:30
+AUD		
+Employment Change
+38.5K	22.4K	-5.9K	
+AUD		
+Unemployment Rate
+4.1%	3.9%	3.9%	
+12:30
+USD		
+Unemployment Claims
+222K	219K	232K	
+Fri
+May 17
+Sat
+May 18
+Sun
+May 19
+Mon
+May 20
+Tue
+May 21
+12:30
+CAD		
+CPI m/m
+0.5%	0.5%	0.6%	
+CAD		
+Median CPI y/y
+2.6%	2.7%	2.9%	
+CAD		
+Trimmed CPI y/y
+2.9%	2.9%	3.2%	
+17:00
+GBP		
+BOE Gov Bailey Speaks
+Wed
+May 22
+2:00
+NZD		
+Official Cash Rate
+5.50%	5.50%	5.50%	
+NZD		
+RBNZ Monetary Policy Statement
+NZD		
+RBNZ Rate Statement
+6:00
+GBP		
+CPI y/y
+2.3%	2.1%	3.2%	
+18:00
+USD		
+FOMC Meeting Minutes
+Thu
+May 23
+7:15
+EUR		
+French Flash Manufacturing PMI
+46.7	45.8	45.3	
+EUR		
+French Flash Services PMI
+49.4	51.8	51.3	
+7:30
+EUR		
+German Flash Manufacturing PMI
+45.4	43.4	42.5	
+EUR		
+German Flash Services PMI
+53.9	53.5	53.2	
+8:30
+GBP		
+Flash Manufacturing PMI
+51.3	49.5	49.1	
+GBP		
+Flash Services PMI
+52.9	54.7	55.0	
+12:30
+USD		
+Unemployment Claims
+215K	220K	223K	
+13:45
+USD		
+Flash Manufacturing PMI
+50.9	50.0	50.0	
+USD		
+Flash Services PMI
+54.8	51.2	51.3	
+Fri
+May 24
+6:00
+GBP		
+Retail Sales m/m
+-2.3%	-0.5%	-0.2%	
+14:00
+USD		
+Revised UoM Consumer Sentiment
+69.1	67.8	67.4	
+Sat
+May 25
+Sun
+May 26
+Mon
+May 27
+0:05
+JPY		
+BOJ Gov Ueda Speaks
+Tue
+May 28
+14:00
+USD		
+CB Consumer Confidence
+102.0	96.0	97.5	
+Wed
+May 29
+1:30
+AUD		
+CPI y/y
+3.6%	3.4%	3.5%	
+All Day
+EUR		
+German Prelim CPI m/m
+0.1%	0.2%	0.5%	
+Thu
+May 30
+12:30
+USD		
+Prelim GDP q/q
+1.3%	1.2%	1.6%	
+USD		
+Unemployment Claims
+219K	218K	216K	
+14:00
+USD		
+Pending Home Sales m/m
+-7.7%	-1.1%	3.6%	
+Fri
+May 31
+1:30
+CNY		
+Manufacturing PMI
+49.5	50.5	50.4	
+9:00
+EUR		
+Core CPI Flash Estimate y/y
+2.9%	2.7%	2.7%	
+EUR		
+CPI Flash Estimate y/y
+2.6%	2.5%	2.4%	
+12:30
+CAD		
+GDP m/m
+0.0%	0.0%	0.2%	
+USD		
+Core PCE Price Index m/m
+0.2%	0.3%	0.3%	
+Sat
+Jun 1
+Sun
+Jun 2
+Mon
+Jun 3
+13:45
+USD		
+Final Manufacturing PMI
+51.3	50.9	50.9	
+14:00
+USD		
+ISM Manufacturing PMI
+48.7	49.8	49.2	
+Tue
+Jun 4
+6:30
+CHF		
+CPI m/m
+0.3%	0.3%	0.3%	
+14:00
+USD		
+JOLTS Job Openings
+8.06M	8.37M	8.36M	
+Wed
+Jun 5
+1:30
+AUD		
+GDP q/q
+0.1%	0.2%	0.3%	
+12:15
+USD		
+ADP Non-Farm Employment Change
+152K	173K	188K	
+13:45
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+4.75%	4.75%	5.00%	
+14:00
+USD		
+ISM Services PMI
+53.8	51.0	49.4	
+14:30
+CAD		
+BOC Press Conference
+Thu
+Jun 6
+12:15
+EUR		
+Main Refinancing Rate
+4.25%	4.25%	4.50%	
+EUR		
+Monetary Policy Statement
+12:30
+USD		
+Unemployment Claims
+229K	220K	221K	
+12:45
+EUR		
+ECB Press Conference
+Fri
+Jun 7
+12:30
+CAD		
+Employment Change
+26.7K	24.8K	90.4K	
+CAD		
+Unemployment Rate
+6.2%	6.2%	6.1%	
+USD		
+Average Hourly Earnings m/m
+0.4%	0.3%	0.2%	
+USD		
+Non-Farm Employment Change
+272K	182K	165K	
+USD		
+Unemployment Rate
+4.0%	3.9%	3.9%	
+Sat
+Jun 8
+Sun
+Jun 9
+Day 4
+EUR		
+European Parliamentary Elections
+Mon
+Jun 10
+Tue
+Jun 11
+6:00
+GBP		
+Claimant Count Change
+50.4K	10.2K	8.4K	
+Wed
+Jun 12
+6:00
+GBP		
+GDP m/m
+0.0%	0.0%	0.4%	
+12:30
+USD		
+Core CPI m/m
+0.2%	0.3%	0.3%	
+USD		
+CPI m/m
+0.0%	0.1%	0.3%	
+USD		
+CPI y/y
+3.3%	3.4%	3.4%	
+18:00
+USD		
+Federal Funds Rate
+5.50%	5.50%	5.50%	
+USD		
+FOMC Economic Projections
+USD		
+FOMC Statement
+18:30
+USD		
+FOMC Press Conference
+19:15
+CAD		
+BOC Gov Macklem Speaks
+Thu
+Jun 13
+1:30
+AUD		
+Employment Change
+39.7K	30.5K	37.4K	
+AUD		
+Unemployment Rate
+4.0%	4.0%	4.1%	
+12:30
+USD		
+Core PPI m/m
+0.0%	0.3%	0.5%	
+USD		
+PPI m/m
+-0.2%	0.1%	0.5%	
+USD		
+Unemployment Claims
+242K	225K	229K	
+17:00
+CAD		
+BOC Gov Macklem Speaks
+Fri
+Jun 14
+3:23
+JPY		
+BOJ Policy Rate
+<0.10%	<0.10%	<0.10%	
+JPY		
+Monetary Policy Statement
+6:30
+JPY		
+BOJ Press Conference
+14:00
+USD		
+Prelim UoM Consumer Sentiment
+65.6	72.1	69.1	
+Sat
+Jun 15
+Sun
+Jun 16
+Mon
+Jun 17
+12:30
+USD		
+Empire State Manufacturing Index
+-6.0	-12.5	-15.6	
+Tue
+Jun 18
+4:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Rate Statement
+12:30
+USD		
+Core Retail Sales m/m
+-0.1%	0.2%	-0.1%	
+USD		
+Retail Sales m/m
+0.1%	0.3%	-0.2%	
+Wed
+Jun 19
+6:00
+GBP		
+CPI y/y
+2.0%	2.0%	2.3%	
+22:45
+NZD		
+GDP q/q
+0.2%	0.1%	-0.1%	
+Thu
+Jun 20
+7:30
+CHF		
+SNB Monetary Policy Assessment
+CHF		
+SNB Policy Rate
+1.25%	1.50%	1.50%	
+8:00
+CHF		
+SNB Press Conference
+11:00
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-2-7	0-2-7	0-2-7	
+GBP		
+Official Bank Rate
+5.25%	5.25%	5.25%	
+12:30
+USD		
+Unemployment Claims
+238K	235K	243K	
+20:00
+USD		
+Treasury Currency Report
+Fri
+Jun 21
+6:00
+GBP		
+Retail Sales m/m
+2.9%	1.6%	-1.8%	
+7:15
+EUR		
+French Flash Manufacturing PMI
+45.3	46.8	46.4	
+EUR		
+French Flash Services PMI
+48.8	50.0	49.3	
+7:30
+EUR		
+German Flash Manufacturing PMI
+43.4	46.4	45.4	
+EUR		
+German Flash Services PMI
+53.5	54.4	54.2	
+8:30
+GBP		
+Flash Manufacturing PMI
+51.4	51.3	51.2	
+GBP		
+Flash Services PMI
+51.2	53.0	52.9	
+13:45
+USD		
+Flash Manufacturing PMI
+51.7	51.0	51.3	
+USD		
+Flash Services PMI
+55.1	53.4	54.8	
+Sat
+Jun 22
+Sun
+Jun 23
+Mon
+Jun 24
+17:30
+CAD		
+BOC Gov Macklem Speaks
+Tue
+Jun 25
+12:30
+CAD		
+CPI m/m
+0.6%	0.3%	0.5%	
+CAD		
+Median CPI y/y
+2.8%	2.6%	2.6%	
+CAD		
+Trimmed CPI y/y
+2.9%	2.8%	2.8%	
+14:00
+USD		
+CB Consumer Confidence
+100.4	100.0	101.3	
+Wed
+Jun 26
+1:30
+AUD		
+CPI y/y
+4.0%	3.8%	3.6%	
+14:00
+USD		
+New Home Sales
+619K	636K	698K	
+Thu
+Jun 27
+9:30
+GBP		
+BOE Gov Bailey Speaks
+12:30
+USD		
+Final GDP q/q
+1.4%	1.4%	1.3%	
+USD		
+Unemployment Claims
+233K	236K	239K	
+14:00
+USD		
+Pending Home Sales m/m
+-2.1%	0.6%	-7.7%	
+Fri
+Jun 28
+12:30
+CAD		
+GDP m/m
+0.3%	0.3%	0.0%	
+USD		
+Core PCE Price Index m/m
+0.1%	0.1%	0.3%	
+Sat
+Jun 29
+Sun
+Jun 30
+1:30
+CNY		
+Manufacturing PMI
+49.5	49.5	49.5	
+All Day
+EUR		
+French Parliamentary Elections
+Mon
+Jul 1
+All Day
+EUR		
+German Prelim CPI m/m
+0.1%	0.2%	0.1%	
+14:00
+USD		
+ISM Manufacturing PMI
+48.5	49.2	48.7	
+Tue
+Jul 2
+9:00
+EUR		
+Core CPI Flash Estimate y/y
+2.9%	2.8%	2.9%	
+EUR		
+CPI Flash Estimate y/y
+2.5%	2.5%	2.6%	
+13:30
+USD		
+Fed Chair Powell Speaks
+14:00
+USD		
+JOLTS Job Openings
+8.14M	7.96M	7.92M	
+Wed
+Jul 3
+12:15
+USD		
+ADP Non-Farm Employment Change
+150K	163K	157K	
+12:30
+USD		
+Unemployment Claims
+238K	234K	234K	
+14:00
+USD		
+ISM Services PMI
+48.8	52.6	53.8	
+18:00
+USD		
+FOMC Meeting Minutes
+Thu
+Jul 4
+6:30
+CHF		
+CPI m/m
+0.0%	0.1%	0.3%	
+All Day
+GBP		
+Parliamentary Elections
+Fri
+Jul 5
+12:30
+CAD		
+Employment Change
+-1.4K	27.3K	26.7K	
+CAD		
+Unemployment Rate
+6.4%	6.3%	6.2%	
+USD		
+Average Hourly Earnings m/m
+0.3%	0.3%	0.4%	
+USD		
+Non-Farm Employment Change
+206K	191K	218K	
+USD		
+Unemployment Rate
+4.1%	4.0%	4.0%	
+Sat
+Jul 6
+Sun
+Jul 7
+All Day
+EUR		
+French Parliamentary Elections
+Mon
+Jul 8
+Tue
+Jul 9
+14:00
+USD		
+Fed Chair Powell Testifies
+Wed
+Jul 10
+2:00
+NZD		
+Official Cash Rate
+5.50%	5.50%	5.50%	
+NZD		
+RBNZ Rate Statement
+14:00
+USD		
+Fed Chair Powell Testifies
+Thu
+Jul 11
+6:00
+GBP		
+GDP m/m
+0.4%	0.2%	0.0%	
+12:30
+USD		
+Core CPI m/m
+0.1%	0.2%	0.2%	
+USD		
+CPI m/m
+-0.1%	0.1%	0.0%	
+USD		
+CPI y/y
+3.0%	3.1%	3.3%	
+USD		
+Unemployment Claims
+222K	236K	239K	
+Fri
+Jul 12
+12:30
+USD		
+Core PPI m/m
+0.4%	0.2%	0.3%	
+USD		
+PPI m/m
+0.2%	0.1%	0.0%	
+14:00
+USD		
+Prelim UoM Consumer Sentiment
+66.0	68.5	68.2	
+Sat
+Jul 13
+Sun
+Jul 14
+Mon
+Jul 15
+12:30
+USD		
+Empire State Manufacturing Index
+-6.6	-5.5	-6.0	
+16:30
+USD		
+Fed Chair Powell Speaks
+Tue
+Jul 16
+12:30
+CAD		
+CPI m/m
+-0.1%	0.1%	0.6%	
+CAD		
+Median CPI y/y
+2.6%	2.7%	2.7%	
+CAD		
+Trimmed CPI y/y
+2.9%	2.8%	2.9%	
+USD		
+Core Retail Sales m/m
+0.4%	0.1%	0.1%	
+USD		
+Retail Sales m/m
+0.0%	-0.3%	0.3%	
+22:45
+NZD		
+CPI q/q
+0.4%	0.5%	0.6%	
+Wed
+Jul 17
+6:00
+GBP		
+CPI y/y
+2.0%	1.9%	2.0%	
+Thu
+Jul 18
+1:30
+AUD		
+Employment Change
+50.2K	19.9K	39.5K	
+AUD		
+Unemployment Rate
+4.1%	4.1%	4.0%	
+6:00
+GBP		
+Claimant Count Change
+32.3K	23.4K	51.9K	
+12:15
+EUR		
+Main Refinancing Rate
+4.25%	4.25%	4.25%	
+EUR		
+Monetary Policy Statement
+12:30
+USD		
+Unemployment Claims
+243K	229K	223K	
+12:45
+EUR		
+ECB Press Conference
+Fri
+Jul 19
+6:00
+GBP		
+Retail Sales m/m
+-1.2%	-0.6%	2.9%	
+12:30
+CAD		
+Core Retail Sales m/m
+-1.3%	-0.5%	1.7%	
+CAD		
+Retail Sales m/m
+-0.8%	-0.5%	0.6%	
+Sat
+Jul 20
+Sun
+Jul 21
+Mon
+Jul 22
+Tue
+Jul 23
+Wed
+Jul 24
+7:15
+EUR		
+French Flash Manufacturing PMI
+44.1	45.8	45.4	
+EUR		
+French Flash Services PMI
+50.7	49.7	49.6	
+7:30
+EUR		
+German Flash Manufacturing PMI
+42.6	44.1	43.5	
+EUR		
+German Flash Services PMI
+52.0	53.2	53.1	
+8:30
+GBP		
+Flash Manufacturing PMI
+51.8	51.1	50.9	
+GBP		
+Flash Services PMI
+52.4	52.5	52.1	
+13:45
+CAD		
+BOC Monetary Policy Report
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+4.50%	4.50%	4.75%	
+USD		
+Flash Manufacturing PMI
+49.5	51.7	51.6	
+USD		
+Flash Services PMI
+56.0	54.7	55.3	
+14:30
+CAD		
+BOC Press Conference
+Thu
+Jul 25
+12:30
+USD		
+Advance GDP q/q
+2.8%	2.0%	1.4%	
+USD		
+Unemployment Claims
+235K	237K	245K	
+Fri
+Jul 26
+12:30
+USD		
+Core PCE Price Index m/m
+0.2%	0.2%	0.1%	
+Sat
+Jul 27
+Sun
+Jul 28
+Mon
+Jul 29
+Tue
+Jul 30
+All Day
+EUR		
+German Prelim CPI m/m
+0.3%	0.3%	0.1%	
+14:00
+USD		
+CB Consumer Confidence
+100.3	99.7	97.8	
+USD		
+JOLTS Job Openings
+8.18M	8.02M	8.23M	
+Wed
+Jul 31
+1:30
+AUD		
+CPI m/m
+1.0%	1.0%	1.0%	
+AUD		
+CPI y/y
+3.8%	3.8%	4.0%	
+AUD		
+Trimmed Mean CPI m/m
+0.8%	1.0%	1.0%	
+CNY		
+Manufacturing PMI
+49.4	49.4	49.5	
+3:57
+JPY		
+BOJ Outlook Report
+JPY		
+BOJ Policy Rate
+<0.25%	<0.10%	<0.10%	
+JPY		
+Monetary Policy Statement
+6:30
+JPY		
+BOJ Press Conference
+9:00
+EUR		
+Core CPI Flash Estimate y/y
+2.9%	2.8%	2.9%	
+EUR		
+CPI Flash Estimate y/y
+2.6%	2.5%	2.5%	
+12:15
+USD		
+ADP Non-Farm Employment Change
+122K	147K	155K	
+12:30
+CAD		
+GDP m/m
+0.2%	0.1%	0.3%	
+USD		
+Employment Cost Index q/q
+0.9%	1.0%	1.2%	
+14:00
+USD		
+Pending Home Sales m/m
+4.8%	1.4%	-1.9%	
+18:00
+USD		
+Federal Funds Rate
+5.50%	5.50%	5.50%	
+USD		
+FOMC Statement
+18:30
+USD		
+FOMC Press Conference
+Thu
+Aug 1
+11:00
+GBP		
+BOE Monetary Policy Report
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-5-4	0-6-3	0-2-7	
+GBP		
+Official Bank Rate
+5.00%	5.00%	5.25%	
+11:30
+GBP		
+BOE Gov Bailey Speaks
+12:30
+USD		
+Unemployment Claims
+249K	236K	235K	
+14:00
+USD		
+ISM Manufacturing PMI
+46.8	48.8	48.5	
+Fri
+Aug 2
+6:30
+CHF		
+CPI m/m
+-0.2%	-0.2%	0.0%	
+12:30
+USD		
+Average Hourly Earnings m/m
+0.2%	0.3%	0.3%	
+USD		
+Non-Farm Employment Change
+114K	176K	179K	
+USD		
+Unemployment Rate
+4.3%	4.1%	4.1%	
+Sat
+Aug 3
+Sun
+Aug 4
+Mon
+Aug 5
+14:00
+USD		
+ISM Services PMI
+51.4	51.1	48.8	
+Tue
+Aug 6
+4:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Monetary Policy Statement
+AUD		
+RBA Rate Statement
+22:45
+NZD		
+Employment Change q/q
+0.4%	-0.2%	-0.3%	
+NZD		
+Unemployment Rate
+4.6%	4.7%	4.4%	
+Wed
+Aug 7
+Thu
+Aug 8
+2:40
+AUD		
+RBA Gov Bullock Speaks
+3:00
+NZD		
+Inflation Expectations q/q
+2.03%		2.33%	
+12:30
+USD		
+Unemployment Claims
+233K	241K	250K	
+Fri
+Aug 9
+12:30
+CAD		
+Employment Change
+-2.8K	26.9K	-1.4K	
+CAD		
+Unemployment Rate
+6.4%	6.5%	6.4%	
+Sat
+Aug 10
+Sun
+Aug 11
+Mon
+Aug 12
+Tue
+Aug 13
+1:30
+AUD		
+Wage Price Index q/q
+0.8%	0.9%	0.9%	
+6:00
+GBP		
+Claimant Count Change
+135.0K	14.5K	36.2K	
+12:30
+USD		
+Core PPI m/m
+0.0%	0.2%	0.3%	
+USD		
+PPI m/m
+0.1%	0.2%	0.2%	
+Wed
+Aug 14
+2:00
+NZD		
+Official Cash Rate
+5.25%	5.50%	5.50%	
+NZD		
+RBNZ Monetary Policy Statement
+NZD		
+RBNZ Rate Statement
+6:00
+GBP		
+CPI y/y
+2.2%	2.3%	2.0%	
+12:30
+USD		
+Core CPI m/m
+0.2%	0.2%	0.1%	
+USD		
+CPI m/m
+0.2%	0.2%	-0.1%	
+USD		
+CPI y/y
+2.9%	3.0%	3.0%	
+Thu
+Aug 15
+1:30
+AUD		
+Employment Change
+58.2K	20.2K	52.3K	
+AUD		
+Unemployment Rate
+4.2%	4.1%	4.1%	
+6:00
+GBP		
+GDP m/m
+0.0%	0.0%	0.4%	
+12:30
+USD		
+Core Retail Sales m/m
+0.4%	0.1%	0.5%	
+USD		
+Retail Sales m/m
+1.0%	0.4%	-0.2%	
+USD		
+Unemployment Claims
+227K	236K	234K	
+23:30
+AUD		
+RBA Gov Bullock Speaks
+Fri
+Aug 16
+6:00
+GBP		
+Retail Sales m/m
+0.5%	0.6%	-0.9%	
+Sat
+Aug 17
+Sun
+Aug 18
+Mon
+Aug 19
+Tue
+Aug 20
+12:30
+CAD		
+CPI m/m
+0.4%	0.4%	-0.1%	
+CAD		
+Median CPI y/y
+2.4%	2.5%	2.6%	
+CAD		
+Trimmed CPI y/y
+2.7%	2.8%	2.8%	
+Wed
+Aug 21
+14:00
+USD		
+Prelim Benchmark Payrolls Revision
+-818K		-306K	
+18:00
+USD		
+FOMC Meeting Minutes
+Thu
+Aug 22
+7:15
+EUR		
+French Flash Manufacturing PMI
+42.1	44.4	44.0	
+EUR		
+French Flash Services PMI
+55.0	50.2	50.1	
+7:30
+EUR		
+German Flash Manufacturing PMI
+42.1	43.4	43.2	
+EUR		
+German Flash Services PMI
+51.4	52.3	52.5	
+8:30
+GBP		
+Flash Manufacturing PMI
+52.5	52.1	52.1	
+GBP		
+Flash Services PMI
+53.3	52.8	52.5	
+12:30
+USD		
+Unemployment Claims
+232K	232K	228K	
+13:45
+USD		
+Flash Manufacturing PMI
+48.0	49.5	49.6	
+USD		
+Flash Services PMI
+55.2	54.0	55.0	
+Fri
+Aug 23
+0:33
+JPY		
+BOJ Gov Ueda Speaks
+4:00
+JPY		
+BOJ Gov Ueda Speaks
+12:30
+CAD		
+Core Retail Sales m/m
+0.3%	-0.2%	-1.2%	
+CAD		
+Retail Sales m/m
+-0.3%	-0.3%	-0.8%	
+14:00
+USD		
+Fed Chair Powell Speaks
+15:00
+GBP		
+BOE Gov Bailey Speaks
+Day 2
+All		
+Jackson Hole Symposium
+Sat
+Aug 24
+Sun
+Aug 25
+Mon
+Aug 26
+Tue
+Aug 27
+14:00
+USD		
+CB Consumer Confidence
+103.3	100.9	101.9	
+Wed
+Aug 28
+1:30
+AUD		
+CPI y/y
+3.5%	3.4%	3.8%	
+Thu
+Aug 29
+All Day
+EUR		
+German Prelim CPI m/m
+-0.1%	0.0%	0.3%	
+12:30
+USD		
+Prelim GDP q/q
+3.0%	2.8%	2.8%	
+USD		
+Unemployment Claims
+231K	232K	233K	
+Fri
+Aug 30
+9:00
+EUR		
+CPI Flash Estimate y/y
+2.2%	2.2%	2.6%	
+12:30
+CAD		
+GDP m/m
+0.0%	0.1%	0.1%	
+USD		
+Core PCE Price Index m/m
+0.2%	0.2%	0.2%	
+Sat
+Aug 31
+1:30
+CNY		
+Manufacturing PMI
+49.1	49.5	49.4	
+Sun
+Sep 1
+Mon
+Sep 2
+Tue
+Sep 3
+6:30
+CHF		
+CPI m/m
+0.0%	0.1%	-0.2%	
+14:00
+USD		
+ISM Manufacturing PMI
+47.2	47.5	46.8	
+Wed
+Sep 4
+1:30
+AUD		
+GDP q/q
+0.2%	0.2%	0.2%	
+13:45
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+4.25%	4.25%	4.50%	
+14:00
+USD		
+JOLTS Job Openings
+7.67M	8.09M	7.91M	
+14:30
+CAD		
+BOC Press Conference
+Thu
+Sep 5
+3:05
+AUD		
+RBA Gov Bullock Speaks
+12:15
+USD		
+ADP Non-Farm Employment Change
+99K	144K	111K	
+12:30
+USD		
+Unemployment Claims
+227K	231K	232K	
+14:00
+USD		
+ISM Services PMI
+51.5	51.3	51.4	
+Fri
+Sep 6
+12:30
+CAD		
+Employment Change
+22.1K	23.7K	-2.8K	
+CAD		
+Unemployment Rate
+6.6%	6.5%	6.4%	
+USD		
+Average Hourly Earnings m/m
+0.4%	0.3%	0.2%	
+USD		
+Non-Farm Employment Change
+142K	164K	89K	
+USD		
+Unemployment Rate
+4.2%	4.2%	4.3%	
+15:00
+USD		
+FOMC Member Waller Speaks
+Sat
+Sep 7
+Sun
+Sep 8
+Mon
+Sep 9
+Tue
+Sep 10
+6:00
+GBP		
+Claimant Count Change
+23.7K	95.5K	102.3K	
+12:10
+CAD		
+BOC Gov Macklem Speaks
+Wed
+Sep 11
+6:00
+GBP		
+GDP m/m
+0.0%	0.2%	0.0%	
+12:30
+USD		
+Core CPI m/m
+0.3%	0.2%	0.2%	
+USD		
+CPI m/m
+0.2%	0.2%	0.2%	
+USD		
+CPI y/y
+2.5%	2.5%	2.9%	
+Thu
+Sep 12
+12:15
+EUR		
+Main Refinancing Rate
+3.65%	3.65%	4.25%	
+EUR		
+Monetary Policy Statement
+12:30
+USD		
+Core PPI m/m
+0.3%	0.2%	-0.2%	
+USD		
+PPI m/m
+0.2%	0.1%	0.0%	
+USD		
+Unemployment Claims
+230K	227K	228K	
+12:45
+EUR		
+ECB Press Conference
+Fri
+Sep 13
+Sat
+Sep 14
+Sun
+Sep 15
+Mon
+Sep 16
+Tue
+Sep 17
+12:30
+CAD		
+CPI m/m
+-0.2%	0.0%	0.4%	
+CAD		
+Median CPI y/y
+2.3%	2.2%	2.4%	
+CAD		
+Trimmed CPI y/y
+2.4%	2.5%	2.7%	
+USD		
+Core Retail Sales m/m
+0.1%	0.2%	0.4%	
+USD		
+Retail Sales m/m
+0.1%	-0.2%	1.1%	
+Wed
+Sep 18
+6:00
+GBP		
+CPI y/y
+2.2%	2.2%	2.2%	
+18:00
+USD		
+Federal Funds Rate
+5.00%	5.25%	5.50%	
+USD		
+FOMC Economic Projections
+USD		
+FOMC Statement
+18:30
+USD		
+FOMC Press Conference
+22:45
+NZD		
+GDP q/q
+-0.2%	-0.4%	0.1%	
+Thu
+Sep 19
+1:30
+AUD		
+Employment Change
+47.5K	26.4K	48.9K	
+AUD		
+Unemployment Rate
+4.2%	4.2%	4.2%	
+11:00
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-1-8	0-2-7	0-5-4	
+GBP		
+Official Bank Rate
+5.00%	5.00%	5.00%	
+12:30
+USD		
+Unemployment Claims
+219K	230K	231K	
+Fri
+Sep 20
+2:52
+JPY		
+BOJ Policy Rate
+<0.25%	<0.25%	<0.25%	
+JPY		
+Monetary Policy Statement
+6:00
+GBP		
+Retail Sales m/m
+1.0%	0.3%	0.7%	
+6:30
+JPY		
+BOJ Press Conference
+12:15
+CAD		
+BOC Gov Macklem Speaks
+12:30
+CAD		
+Core Retail Sales m/m
+0.4%	0.2%	0.3%	
+CAD		
+Retail Sales m/m
+0.9%	0.5%	-0.2%	
+Sat
+Sep 21
+Sun
+Sep 22
+Mon
+Sep 23
+7:15
+EUR		
+French Flash Manufacturing PMI
+44.0	44.3	43.9	
+EUR		
+French Flash Services PMI
+48.3	53.0	55.0	
+7:30
+EUR		
+German Flash Manufacturing PMI
+40.3	42.4	42.4	
+EUR		
+German Flash Services PMI
+50.6	51.1	51.2	
+8:30
+GBP		
+Flash Manufacturing PMI
+51.5	52.3	52.5	
+GBP		
+Flash Services PMI
+52.8	53.5	53.7	
+13:45
+USD		
+Flash Manufacturing PMI
+47.0	48.6	47.9	
+USD		
+Flash Services PMI
+55.4	55.3	55.7	
+Tue
+Sep 24
+4:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Rate Statement
+5:05
+JPY		
+BOJ Gov Ueda Speaks
+14:00
+USD		
+CB Consumer Confidence
+98.7	103.9	105.6	
+17:10
+CAD		
+BOC Gov Macklem Speaks
+Wed
+Sep 25
+1:30
+AUD		
+CPI y/y
+2.7%	2.7%	3.5%	
+Thu
+Sep 26
+7:30
+CHF		
+SNB Monetary Policy Assessment
+CHF		
+SNB Policy Rate
+1.00%	1.00%	1.25%	
+8:00
+CHF		
+SNB Press Conference
+12:30
+USD		
+Final GDP q/q
+3.0%	3.0%	3.0%	
+USD		
+Unemployment Claims
+218K	224K	222K	
+13:20
+USD		
+Fed Chair Powell Speaks
+Fri
+Sep 27
+12:30
+CAD		
+GDP m/m
+0.2%	0.1%	0.0%	
+USD		
+Core PCE Price Index m/m
+0.1%	0.2%	0.2%	
+Sat
+Sep 28
+Sun
+Sep 29
+Mon
+Sep 30
+1:30
+CNY		
+Manufacturing PMI
+49.8	49.4	49.1	
+All Day
+EUR		
+German Prelim CPI m/m
+0.0%	0.1%	-0.1%	
+17:55
+USD		
+Fed Chair Powell Speaks
+Tue
+Oct 1
+9:00
+EUR		
+Core CPI Flash Estimate y/y
+2.7%	2.7%	2.8%	
+EUR		
+CPI Flash Estimate y/y
+1.8%	1.8%	2.2%	
+14:00
+USD		
+ISM Manufacturing PMI
+47.2	47.6	47.2	
+USD		
+JOLTS Job Openings
+8.04M	7.64M	7.71M	
+15:15
+CHF		
+SNB Chairman Schlegel Speaks
+Wed
+Oct 2
+12:15
+USD		
+ADP Non-Farm Employment Change
+143K	124K	103K	
+Thu
+Oct 3
+6:30
+CHF		
+CPI m/m
+-0.3%	-0.1%	0.0%	
+12:30
+USD		
+Unemployment Claims
+225K	222K	219K	
+14:00
+USD		
+ISM Services PMI
+54.9	51.7	51.5	
+Fri
+Oct 4
+12:30
+USD		
+Average Hourly Earnings m/m
+0.4%	0.3%	0.5%	
+USD		
+Non-Farm Employment Change
+254K	147K	159K	
+USD		
+Unemployment Rate
+4.1%	4.2%	4.2%	
+Sat
+Oct 5
+Sun
+Oct 6
+Mon
+Oct 7
+Tue
+Oct 8
+Wed
+Oct 9
+1:00
+NZD		
+Official Cash Rate
+4.75%	4.75%	5.25%	
+NZD		
+RBNZ Rate Statement
+18:00
+USD		
+FOMC Meeting Minutes
+Thu
+Oct 10
+12:30
+USD		
+Core CPI m/m
+0.3%	0.2%	0.3%	
+USD		
+CPI m/m
+0.2%	0.1%	0.2%	
+USD		
+CPI y/y
+2.4%	2.3%	2.5%	
+USD		
+Unemployment Claims
+258K	231K	225K	
+Fri
+Oct 11
+6:00
+GBP		
+GDP m/m
+0.2%	0.2%	0.0%	
+12:30
+CAD		
+Employment Change
+46.7K	29.8K	22.1K	
+CAD		
+Unemployment Rate
+6.5%	6.7%	6.6%	
+USD		
+Core PPI m/m
+0.2%	0.2%	0.3%	
+USD		
+PPI m/m
+0.0%	0.1%	0.2%	
+Sat
+Oct 12
+Sun
+Oct 13
+Mon
+Oct 14
+Tue
+Oct 15
+6:00
+GBP		
+Claimant Count Change
+27.9K	20.2K	0.3K	
+12:30
+CAD		
+CPI m/m
+-0.4%	-0.2%	-0.2%	
+CAD		
+Median CPI y/y
+2.3%	2.3%	2.3%	
+CAD		
+Trimmed CPI y/y
+2.4%	2.4%	2.4%	
+21:45
+NZD		
+CPI q/q
+0.6%	0.7%	0.4%	
+Wed
+Oct 16
+6:00
+GBP		
+CPI y/y
+1.7%	1.9%	2.2%	
+Thu
+Oct 17
+0:30
+AUD		
+Employment Change
+64.1K	25.2K	42.6K	
+AUD		
+Unemployment Rate
+4.1%	4.2%	4.1%	
+12:15
+EUR		
+Main Refinancing Rate
+3.40%	3.40%	3.65%	
+EUR		
+Monetary Policy Statement
+12:30
+USD		
+Core Retail Sales m/m
+0.5%	0.1%	0.2%	
+USD		
+Retail Sales m/m
+0.4%	0.3%	0.1%	
+USD		
+Unemployment Claims
+241K	241K	260K	
+12:45
+EUR		
+ECB Press Conference
+Fri
+Oct 18
+6:00
+GBP		
+Retail Sales m/m
+0.3%	-0.4%	1.0%	
+Sat
+Oct 19
+Sun
+Oct 20
+Mon
+Oct 21
+Tue
+Oct 22
+13:25
+GBP		
+BOE Gov Bailey Speaks
+Wed
+Oct 23
+13:45
+CAD		
+BOC Monetary Policy Report
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+3.75%	3.75%	4.25%	
+14:30
+CAD		
+BOC Press Conference
+18:45
+GBP		
+BOE Gov Bailey Speaks
+Thu
+Oct 24
+7:15
+EUR		
+French Flash Manufacturing PMI
+44.5	44.9	44.6	
+EUR		
+French Flash Services PMI
+48.3	49.8	49.6	
+7:30
+EUR		
+German Flash Manufacturing PMI
+42.6	40.7	40.6	
+EUR		
+German Flash Services PMI
+51.4	50.6	50.6	
+8:30
+GBP		
+Flash Manufacturing PMI
+50.3	51.5	51.5	
+GBP		
+Flash Services PMI
+51.8	52.3	52.4	
+12:30
+USD		
+Unemployment Claims
+227K	243K	242K	
+13:45
+USD		
+Flash Manufacturing PMI
+47.8	47.5	47.3	
+USD		
+Flash Services PMI
+55.3	55.0	55.2	
+19:45
+GBP		
+BOE Gov Bailey Speaks
+Fri
+Oct 25
+12:30
+CAD		
+Core Retail Sales m/m
+-0.7%	0.3%	0.3%	
+CAD		
+Retail Sales m/m
+0.4%	0.5%	0.9%	
+Sat
+Oct 26
+Sun
+Oct 27
+All Day
+JPY		
+Lower House Elections
+Mon
+Oct 28
+17:30
+CAD		
+BOC Gov Macklem Speaks
+Tue
+Oct 29
+14:00
+USD		
+CB Consumer Confidence
+108.7	99.5	99.2	
+USD		
+JOLTS Job Openings
+7.44M	7.98M	7.86M	
+18:00
+CHF		
+SNB Chairman Schlegel Speaks
+19:30
+CAD		
+BOC Gov Macklem Speaks
+Wed
+Oct 30
+0:30
+AUD		
+CPI m/m
+0.2%	0.3%	1.0%	
+AUD		
+CPI y/y
+2.1%	2.3%	2.7%	
+AUD		
+Trimmed Mean CPI m/m
+0.8%	0.8%	0.9%	
+All Day
+EUR		
+German Prelim CPI m/m
+0.4%	0.2%	0.0%	
+9:00
+CHF		
+SNB Chairman Schlegel Speaks
+12:15
+USD		
+ADP Non-Farm Employment Change
+233K	110K	159K	
+12:30
+USD		
+Advance GDP q/q
+2.8%	3.0%	3.0%	
+20:15
+CAD		
+BOC Gov Macklem Speaks
+Thu
+Oct 31
+1:30
+CNY		
+Manufacturing PMI
+50.1	49.8	49.8	
+2:48
+JPY		
+BOJ Outlook Report
+JPY		
+BOJ Policy Rate
+<0.25%	<0.25%	<0.25%	
+JPY		
+Monetary Policy Statement
+6:30
+JPY		
+BOJ Press Conference
+12:30
+CAD		
+GDP m/m
+0.0%	0.0%	0.1%	
+USD		
+Core PCE Price Index m/m
+0.3%	0.3%	0.2%	
+USD		
+Employment Cost Index q/q
+0.8%	0.9%	0.9%	
+USD		
+Unemployment Claims
+216K	229K	228K	
+Fri
+Nov 1
+7:30
+CHF		
+CPI m/m
+-0.1%	0.0%	-0.3%	
+12:30
+USD		
+Average Hourly Earnings m/m
+0.4%	0.3%	0.3%	
+USD		
+Non-Farm Employment Change
+12K	106K	223K	
+USD		
+Unemployment Rate
+4.1%	4.1%	4.1%	
+14:00
+USD		
+ISM Manufacturing PMI
+46.5	47.6	47.2	
+Sat
+Nov 2
+Sun
+Nov 3
+Mon
+Nov 4
+Tue
+Nov 5
+3:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Monetary Policy Statement
+AUD		
+RBA Rate Statement
+15:00
+USD		
+ISM Services PMI
+56.0	53.8	54.9	
+All Day
+USD		
+Presidential Election
+All Day
+USD		
+Congressional Elections
+21:45
+NZD		
+Employment Change q/q
+-0.5%	-0.4%	0.2%	
+NZD		
+Unemployment Rate
+4.8%	5.0%	4.6%	
+Wed
+Nov 6
+22:00
+AUD		
+RBA Gov Bullock Speaks
+Thu
+Nov 7
+12:00
+GBP		
+BOE Monetary Policy Report
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-8-1	0-8-1	0-1-8	
+GBP		
+Official Bank Rate
+4.75%	4.75%	5.00%	
+12:30
+GBP		
+BOE Gov Bailey Speaks
+13:30
+USD		
+Unemployment Claims
+221K	223K	218K	
+19:00
+USD		
+Federal Funds Rate
+4.75%	4.75%	5.00%	
+USD		
+FOMC Statement
+19:30
+USD		
+FOMC Press Conference
+Fri
+Nov 8
+13:30
+CAD		
+Employment Change
+14.5K	27.9K	46.7K	
+CAD		
+Unemployment Rate
+6.5%	6.6%	6.5%	
+Sat
+Nov 9
+Sun
+Nov 10
+Mon
+Nov 11
+2:00
+NZD		
+Inflation Expectations q/q
+2.12%		2.03%	
+Tue
+Nov 12
+7:00
+GBP		
+Claimant Count Change
+26.7K	30.5K	10.1K	
+Wed
+Nov 13
+0:30
+AUD		
+Wage Price Index q/q
+0.8%	0.9%	0.8%	
+13:30
+USD		
+Core CPI m/m
+0.3%	0.3%	0.3%	
+USD		
+CPI m/m
+0.2%	0.2%	0.2%	
+USD		
+CPI y/y
+2.6%	2.6%	2.4%	
+23:00
+AUD		
+RBA Gov Bullock Speaks
+Thu
+Nov 14
+0:30
+AUD		
+Employment Change
+15.9K	25.2K	61.3K	
+AUD		
+Unemployment Rate
+4.1%	4.1%	4.1%	
+13:30
+USD		
+Core PPI m/m
+0.3%	0.3%	0.2%	
+USD		
+PPI m/m
+0.2%	0.2%	0.1%	
+USD		
+Unemployment Claims
+217K	224K	221K	
+20:00
+USD		
+Fed Chair Powell Speaks
+20:43
+GBP		
+BOE Gov Bailey Speaks
+Fri
+Nov 15
+7:00
+GBP		
+GDP m/m
+-0.1%	0.2%	0.2%	
+13:30
+USD		
+Core Retail Sales m/m
+0.1%	0.3%	1.0%	
+USD		
+Retail Sales m/m
+0.4%	0.3%	0.8%	
+Sat
+Nov 16
+Sun
+Nov 17
+Mon
+Nov 18
+1:05
+JPY		
+BOJ Gov Ueda Speaks
+Tue
+Nov 19
+10:00
+GBP		
+Monetary Policy Report Hearings
+13:30
+CAD		
+CPI m/m
+0.4%	0.3%	-0.4%	
+CAD		
+Median CPI y/y
+2.5%	2.4%	2.3%	
+CAD		
+Trimmed CPI y/y
+2.6%	2.4%	2.4%	
+Wed
+Nov 20
+7:00
+GBP		
+CPI y/y
+2.3%	2.2%	1.7%	
+Thu
+Nov 21
+5:12
+JPY		
+BOJ Gov Ueda Speaks
+8:00
+AUD		
+RBA Gov Bullock Speaks
+13:30
+USD		
+Unemployment Claims
+213K	220K	219K	
+Fri
+Nov 22
+7:00
+GBP		
+Retail Sales m/m
+-0.7%	-0.3%	0.1%	
+8:15
+EUR		
+French Flash Manufacturing PMI
+43.2	44.6	44.5	
+EUR		
+French Flash Services PMI
+45.7	49.1	49.2	
+8:30
+EUR		
+German Flash Manufacturing PMI
+43.2	43.1	43.0	
+EUR		
+German Flash Services PMI
+49.4	51.6	51.6	
+9:30
+GBP		
+Flash Manufacturing PMI
+48.6	50.0	49.9	
+GBP		
+Flash Services PMI
+50.0	51.9	52.0	
+12:40
+CHF		
+SNB Chairman Schlegel Speaks
+13:30
+CAD		
+Core Retail Sales m/m
+0.9%	0.3%	-0.8%	
+CAD		
+Retail Sales m/m
+0.4%	0.4%	0.4%	
+14:45
+USD		
+Flash Manufacturing PMI
+48.8	48.8	48.5	
+USD		
+Flash Services PMI
+57.0	55.2	55.0	
+Sat
+Nov 23
+Sun
+Nov 24
+Mon
+Nov 25
+Tue
+Nov 26
+15:00
+USD		
+CB Consumer Confidence
+111.7	111.8	109.6	
+19:00
+USD		
+FOMC Meeting Minutes
+Wed
+Nov 27
+0:30
+AUD		
+CPI y/y
+2.1%	2.5%	2.1%	
+1:00
+NZD		
+Official Cash Rate
+4.25%	4.25%	4.75%	
+NZD		
+RBNZ Monetary Policy Statement
+NZD		
+RBNZ Rate Statement
+2:00
+NZD		
+RBNZ Press Conference
+13:30
+USD		
+Prelim GDP q/q
+2.8%	2.8%	2.8%	
+USD		
+Unemployment Claims
+213K	215K	215K	
+15:00
+USD		
+Core PCE Price Index m/m
+0.3%	0.3%	0.3%	
+Thu
+Nov 28
+All Day
+EUR		
+German Prelim CPI m/m
+-0.2%	-0.2%	0.4%	
+8:55
+AUD		
+RBA Gov Bullock Speaks
+Fri
+Nov 29
+11:00
+GBP		
+BOE Gov Bailey Speaks
+13:30
+CAD		
+GDP m/m
+0.1%	0.3%	0.0%	
+Sat
+Nov 30
+1:30
+CNY		
+Manufacturing PMI
+50.3	50.2	50.1	
+Sun
+Dec 1
+Mon
+Dec 2
+15:00
+USD		
+ISM Manufacturing PMI
+48.4	47.7	46.5	
+Tue
+Dec 3
+7:30
+CHF		
+CPI m/m
+-0.1%	-0.1%	-0.1%	
+15:00
+USD		
+JOLTS Job Openings
+7.74M	7.51M	7.37M	
+Wed
+Dec 4
+0:30
+AUD		
+GDP q/q
+0.3%	0.5%	0.2%	
+13:15
+USD		
+ADP Non-Farm Employment Change
+146K	152K	184K	
+15:00
+USD		
+ISM Services PMI
+52.1	55.7	56.0	
+18:45
+USD		
+Fed Chair Powell Speaks
+Thu
+Dec 5
+13:30
+USD		
+Unemployment Claims
+224K	215K	215K	
+Fri
+Dec 6
+13:30
+CAD		
+Employment Change
+50.5K	24.7K	14.5K	
+CAD		
+Unemployment Rate
+6.8%	6.6%	6.5%	
+USD		
+Average Hourly Earnings m/m
+0.4%	0.3%	0.4%	
+USD		
+Non-Farm Employment Change
+227K	218K	36K	
+USD		
+Unemployment Rate
+4.2%	4.1%	4.1%	
+Sat
+Dec 7
+Sun
+Dec 8
+Mon
+Dec 9
+Tue
+Dec 10
+3:30
+AUD		
+Cash Rate
+4.35%	4.35%	4.35%	
+AUD		
+RBA Rate Statement
+Wed
+Dec 11
+13:30
+USD		
+Core CPI m/m
+0.3%	0.3%	0.3%	
+USD		
+CPI m/m
+0.3%	0.3%	0.2%	
+USD		
+CPI y/y
+2.7%	2.7%	2.6%	
+14:45
+CAD		
+BOC Rate Statement
+CAD		
+Overnight Rate
+3.25%	3.25%	3.75%	
+15:30
+CAD		
+BOC Press Conference
+Thu
+Dec 12
+0:30
+AUD		
+Employment Change
+35.6K	26.0K	12.1K	
+AUD		
+Unemployment Rate
+3.9%	4.2%	4.1%	
+8:30
+CHF		
+SNB Monetary Policy Assessment
+CHF		
+SNB Policy Rate
+0.50%	0.75%	1.00%	
+9:00
+CHF		
+SNB Press Conference
+13:15
+EUR		
+Main Refinancing Rate
+3.15%	3.15%	3.40%	
+EUR		
+Monetary Policy Statement
+13:30
+USD		
+Core PPI m/m
+0.2%	0.2%	0.3%	
+USD		
+PPI m/m
+0.4%	0.2%	0.3%	
+USD		
+Unemployment Claims
+242K	221K	225K	
+13:45
+EUR		
+ECB Press Conference
+Fri
+Dec 13
+7:00
+GBP		
+GDP m/m
+-0.1%	0.1%	-0.1%	
+Sat
+Dec 14
+Sun
+Dec 15
+Mon
+Dec 16
+8:15
+EUR		
+French Flash Manufacturing PMI
+41.9	43.2	43.1	
+EUR		
+French Flash Services PMI
+48.2	46.9	46.9	
+8:30
+EUR		
+German Flash Manufacturing PMI
+42.5	43.1	43.0	
+EUR		
+German Flash Services PMI
+51.0	49.5	49.3	
+9:30
+GBP		
+Flash Manufacturing PMI
+47.3	48.4	48.0	
+GBP		
+Flash Services PMI
+51.4	50.9	50.8	
+14:45
+USD		
+Flash Manufacturing PMI
+48.3	49.4	49.7	
+USD		
+Flash Services PMI
+58.5	55.7	56.1	
+20:20
+CAD		
+BOC Gov Macklem Speaks
+Tue
+Dec 17
+7:00
+GBP		
+Claimant Count Change
+0.3K	28.2K	-10.9K	
+13:30
+CAD		
+CPI m/m
+0.0%	0.1%	0.4%	
+CAD		
+Median CPI y/y
+2.6%	2.4%	2.6%	
+CAD		
+Trimmed CPI y/y
+2.7%	2.6%	2.7%	
+USD		
+Core Retail Sales m/m
+0.2%	0.4%	0.2%	
+USD		
+Retail Sales m/m
+0.7%	0.6%	0.5%	
+Wed
+Dec 18
+7:00
+GBP		
+CPI y/y
+2.6%	2.6%	2.3%	
+19:00
+USD		
+Federal Funds Rate
+4.50%	4.50%	4.75%	
+USD		
+FOMC Economic Projections
+USD		
+FOMC Statement
+19:30
+USD		
+FOMC Press Conference
+21:45
+NZD		
+GDP q/q
+-1.0%	-0.2%	-1.1%	
+Thu
+Dec 19
+2:52
+JPY		
+BOJ Policy Rate
+<0.25%	<0.25%	<0.25%	
+JPY		
+Monetary Policy Statement
+6:30
+JPY		
+BOJ Press Conference
+12:00
+GBP		
+Monetary Policy Summary
+GBP		
+MPC Official Bank Rate Votes
+0-3-6	0-2-7	0-8-1	
+GBP		
+Official Bank Rate
+4.75%	4.75%	4.75%	
+13:30
+USD		
+Final GDP q/q
+3.1%	2.8%	2.8%	
+USD		
+Unemployment Claims
+220K	229K	242K	
+Fri
+Dec 20
+7:00
+GBP		
+Retail Sales m/m
+0.2%	0.5%	-0.7%	
+13:30
+CAD		
+Core Retail Sales m/m
+0.1%	0.2%	1.1%	
+CAD		
+Retail Sales m/m
+0.6%	0.7%	0.6%	
+USD		
+Core PCE Price Index m/m
+0.1%	0.2%	0.3%	
+Sat
+Dec 21
+Sun
+Dec 22
+Mon
+Dec 23
+13:30
+CAD		
+GDP m/m
+0.3%	0.2%	0.2%	
+Tue
+Dec 24
+Wed
+Dec 25
+Thu
+Dec 26
+13:30
+USD		
+Unemployment Claims
+219K	223K	220K	
+Fri
+Dec 27
+Sat
+Dec 28
+Sun
+Dec 29
+Mon
+Dec 30
