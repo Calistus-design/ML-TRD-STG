@@ -1,0 +1,167 @@
+Here are the asset names exactly as listed:
+
+1. Ondo (OTC)  
+2. Airlines (OTC)  
+3. Cannabis (OTC)  
+4. Casino (OTC)  
+5. Magnificent 7 (OTC)  
+6. PEN/USD (OTC)  
+7. SHIB/USD (OTC)  
+8. Snap Inc. (OTC)  
+9. Uranium (OTC)  
+10. USD/MXN (OTC)  
+11. AIG (OTC)  
+
+
+1. Alibaba Group Hold... (OTC)  
+2. Amazon/Alibaba (OTC)  
+3. Amazon/Ebay (OTC)  
+4. Arbitrum (OTC)  
+5. Cosmos (OTC)  
+6. AUD/CAD (OTC)  
+7. AUD/CHF (OTC)  
+8. AUD/JPY (OTC)  
+9. AUD/NZD (OTC)  
+10. AUD/USD (OTC)  
+11. AUS 200 (OTC)  
+
+
+1. Bitcoin Cash (OTC)  
+2. Baidu, Inc. ADR (OTC)  
+3. CAD/CHF (OTC)  
+4. CAD/JPY (OTC)  
+5. CARDANO (OTC)  
+6. CHF/JPY (OTC)  
+7. Citigroup, Inc (OTC)  
+8. Coca-Cola Company (OTC)  
+9. Dash (OTC)  
+10. DOGECOIN (OTC)  
+11. Polkadot (OTC)  
+
+1. USD Currency Index  
+2. Vaulta (OTC)  
+3. ETH/USD (OTC)  
+4. EU 50 (OTC)  
+5. EUR/AUD (OTC)  
+6. EUR/CAD (OTC)  
+7. EUR/CHF (OTC)  
+8. EUR/GBP (OTC)  
+9. EUR/JPY (OTC)  
+10. EUR/NZD (OTC)  
+11. EUR/THB (OTC)  
+
+
+
+1. EUR/USD (OTC)  
+2. Fartcoin (OTC)  
+3. FET (OTC)  
+4. Floki (OTC)  
+5. FR 40 (OTC)  
+6. GBP/AUD (OTC)  
+7. GBP/CAD (OTC)  
+8. GBP/CHF (OTC)  
+9. GBP/JPY (OTC)  
+10. GBP/NZD (OTC)  
+11. GBP/USD (OTC)  
+
+
+
+1. GER 30 (OTC)  
+2. GER30/UK100 (OTC)  
+3. Alphabet/Microsoft (OTC)  
+4. Graph (OTC)  
+5. Goldman Sachs Group (OTC)  
+6. HBAR (OTC)  
+7. HK 33 (OTC)  
+8. ICP (OTC)  
+9. Immutable (OTC)  
+10. Intel Corporation (OTC)  
+11. Intel/IBM (OTC)  
+
+
+1. IOTA (OTC)  
+2. JP 225 (OTC)  
+3. JPMorgan Chase &...  
+4. JPY/THB (OTC)  
+5. Jupiter (OTC)  
+6. Labubu (OTC)  
+7. Chainlink (OTC)  
+8. Litecoin (OTC)  
+9. Decentraland (OTC)  
+10. Polygon (OTC)  
+11. McDonald's Corpor...  
+
+
+1. MELANIA Coin (OTC)  
+2. Meta/Alphabet (OTC)  
+3. Morgan Stanley (OTC)  
+4. Microsoft Corporation (OTC)  
+5. Microsoft/Apple (OTC)  
+6. Netflix/Amazon (OTC)  
+7. Nike, Inc. (OTC)  
+8. NZD/CAD (OTC)  
+9. NZD/JPY (OTC)  
+10. ORDI (OTC)  
+11. Pudgy Penguins (OTC)  
+
+
+1. Pepe (OTC)  
+2. Pyth (OTC)  
+3. Raydium (OTC)  
+4. Render (OTC)  
+5. Ronin (OTC)  
+6. Sandbox (OTC)  
+7. 1000Sats (OTC)  
+8. Sei (OTC)  
+9. SOL/USD (OTC)  
+10. SP 35 (OTC)  
+11. US 500 (OTC)  
+
+
+1. Stacks (OTC)  
+2. Sui (OTC)  
+3. TAO (OTC)  
+4. Tesla/Ford (OTC)  
+5. Celestia (OTC)  
+6. TON (OTC)  
+7. TRON/USD (OTC)  
+8. TRUMP Coin (OTC)  
+9. UK 100 (OTC)  
+10. US100/JP225 (OTC)  
+11. US2000 (OTC)  
+
+
+1. US 30 (OTC)  
+2. US30/JP225 (OTC)  
+3. USD/CAD (OTC)  
+4. USD/CHF (OTC)  
+5. USD/HKD (OTC)  
+6. USD/NOK (OTC)  
+7. USD/PLN (OTC)  
+8. USD/SEK (OTC)  
+9. USD/SGD (OTC)  
+10. USD/THB (OTC)  
+11. USD/TRY (OTC)  
+
+
+1. USD/ZAR (OTC)  
+2. US 100 (OTC)  
+3. Dogwifhat (OTC)  
+4. Worldcoin (OTC)  
+5. XAGUSD (OTC)  
+6. Gold/Silver (OTC)  
+7. XAUUSD (OTC)  
+8. Natural Gas (OTC)  
+9. Ripple (OTC)  
+10. JPY Currency Index  
+11. BTC/USD (OTC)  
+
+
+1. DYDX (OTC)  
+2. NZD/USD (OTC)  
+3. UKOUSD (OTC)  
+4. USD/BRL (OTC)  
+5. USD/COP (OTC)  
+6. USD/JPY (OTC)  
+
+

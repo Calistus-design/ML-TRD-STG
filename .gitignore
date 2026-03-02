@@ -5,3 +5,16 @@ data/cleaned/**
 # Allow folder placeholders
 !data/raw/.gitkeep
 !data/cleaned/.gitkeep
+
+
+# Ignore parquet and csv files directly in data/
+data/*.parquet
+data/*.csv
+
+# Ignore parquet and csv files in all subfolders of data/
+data/**/*.parquet
+data/**/*.csv
+
+# Allow folder placeholders
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
