@@ -74,7 +74,7 @@ class MT5DataLoader:
         print(f"    -> SUCCESS: Fetched {len(df)} candles for {symbol}.")
         return df
 
-    def run_download_process(self, date_from: datetime, date_to: datetime, output_dir: str = 'data/raw'):
+    def run_download_process(self, date_from: datetime, date_to: datetime, output_dir: str = 'data/raw1'):
         """
         Orchestrates the download process for a predefined list of assets for a specific date range.
         """

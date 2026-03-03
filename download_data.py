@@ -11,7 +11,8 @@ if __name__ == "__main__":
     
     # --- DEFINE YOUR DESIRED DATE RANGE HERE ---
     # Start date of your historical data
-    start_date = datetime(2024, 1, 1)
+    # start_date = datetime(2024, 1, 1)
+    start_date = datetime(2026, 2, 1)
     
     # End date will be the current moment the script is run
     end_date = datetime.now()

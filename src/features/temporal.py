@@ -85,7 +85,7 @@ def apply_rolling_lenses(df: pd.DataFrame) -> pd.DataFrame:
 
     # 3. H1 God-View (Regime) -> 6 Columns
     valid_h1 = (is_break.rolling(window = 60).sum() == 0)
-    df['H1_Volatility_Rank'] = df['ATR_14'].rolling(1440).rank(pct=True) # Rank vs 24h
+    # df['H1_Volatility_Rank'] = df['ATR_14'].rolling(1440).rank(pct=True) # Rank vs 24h
     df['H1_Body_Avg'] = (df['body_size'].rolling(60).mean() / df['ATR_14']).where(valid_h1)
     
     net_h1 = abs(df['<CLOSE>'] - df['<CLOSE>'].shift(60))

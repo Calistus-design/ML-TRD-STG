@@ -3,30 +3,31 @@ import numpy as np
 import os
 import gc
 import joblib
+import warnings
 
-# Import the Specialized Departments
-from src.features import base_engine, temporal, geometry, mass, anatomy, dynamics, oracle
+# Mute Performance Warnings for production speed
+warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
+
+from src.features import base_engine, temporal, geometry, mass, anatomy, dynamics
 from src.data_cleaner import DataCleaner
 
 class ProductionFactory:
     """
-    Alpha Factory V4 - Production Orchestrator.
-    Converts live M1 data into the exact 471-feature vector expected by the Specialists.
-    Enforces Roster Alignment and Physical Silencing.
+    Alpha Factory V4 - Industrial Production Engine.
+    Hardened for 471-feature positional symmetry and <1s latency.
+    Supports both Live Pulse and Batch Vault Audit modes.
     """
 
-    def __init__(self, raw_dir='data/raw', roster_path='models/v4_elite_roster_ranked.joblib'):
+    def __init__(self, raw_dir='data/raw', roster_path='models/v4_master_blueprint.joblib'):
         self.raw_dir = raw_dir
         self.cleaner = DataCleaner()
         
-        # 1. Load the "Source of Truth" Blueprint
         if not os.path.exists(roster_path):
-            raise FileNotFoundError(f"❌ Critical Error: Roster not found at {roster_path}")
+            raise FileNotFoundError(f"❌ Blueprint not found at {roster_path}")
         
-        self.elite_roster = joblib.load(roster_path)
-        print(f"✅ Production Factory Initialized. Roster Locked: {len(self.elite_roster)} features.")
+        self.final_roster = joblib.load(roster_path)
 
-        # Fixed Registry for asset_id consistency
+        # Asset Mapping for stationary identity
         self.assets = [
             'AUDCAD', 'AUDCHF', 'AUDJPY', 'AUDNZD', 'AUDUSD', 'CADCHF', 'CADJPY', 
             'CHFJPY', 'EURAUD', 'EURCAD', 'EURCHF', 'EURGBP', 'EURJPY', 'EURNZD', 
@@ -35,103 +36,120 @@ class ProductionFactory:
         ]
         self.asset_map = {symbol: i for i, symbol in enumerate(self.assets)}
 
-    def generate_production_vector_from_df(self, df: pd.DataFrame, symbol: str) -> pd.DataFrame:
-        """
-        Industrial High-Speed Forge. 
-        Optimized for 471 features and <2s portfolio latency.
-        """
+        # Compile instructions once at startup
+        self._compile_production_instructions()
+
+    def _compile_production_instructions(self):
+        """Creates a numerical plan based on the model's internal DNA."""
+        raw_cols = ['<OPEN>', '<HIGH>', '<LOW>', '<CLOSE>', '<TICKVOL>', '<VOL>', '<SPREAD>']
+        dummy_df = pd.DataFrame(np.random.randn(70, len(raw_cols)), columns=raw_cols)
+        dummy_df.index = pd.date_range("2024-01-01", periods=70, freq='T')
+        dummy_df['<SPREAD>'] = 1.0 
         
-        # --- STAGE 1: ATOMIC STABILITY (300 Rows) ---
-        # We run the full history through the base modules so indicators 
-        # like EMA_200, VWAP, and H1_Body_Avg are mathematically correct.
+        dummy_df = base_engine.apply_base_physics(dummy_df)
+        dummy_df['minutes_since_news'] = 1440.0
+        dummy_df['asset_id'] = 0
+        dummy_df = anatomy.apply_m1_anatomy(dummy_df)
+        dummy_df = temporal.apply_time_vectors(dummy_df)
+        dummy_df = temporal.apply_rolling_lenses(dummy_df)
+        dummy_df = anatomy.apply_m1_memory_lags(dummy_df)
+        dummy_df = anatomy.apply_momentum_quality(dummy_df)
+        dummy_df = geometry.apply_horizontal_landmarks(dummy_df)
+        dummy_df = geometry.apply_horizontal_multipliers(dummy_df)
+        dummy_df = geometry.apply_trendline_engine(dummy_df)
+        dummy_df = geometry.apply_trendline_integrity(dummy_df)
+        dummy_df = mass.apply_volume_stack(dummy_df)
+        dummy_df = dynamics.apply_market_dynamics(dummy_df)
+
+        atom_names = dummy_df.columns.tolist()
+        name_to_idx = {name: i for i, name in enumerate(atom_names)}
+        
+        self.atomic_copy_plan = [] 
+        self.molecule_plan = []    
+
+        for roster_idx, f_name in enumerate(self.final_roster):
+            if f_name in name_to_idx:
+                self.atomic_copy_plan.append((name_to_idx[f_name], roster_idx))
+            else:
+                try:
+                    if f_name.startswith('D_'):
+                        parts = f_name[2:].split('_X_D_')
+                        self.molecule_plan.append((3, name_to_idx[parts[0]], name_to_idx[parts[1]], roster_idx))
+                    elif f_name.startswith('delta_'):
+                        parent = f_name[6:]
+                        self.molecule_plan.append((2, name_to_idx[parent], -1, roster_idx))
+                    elif 'RGM_' in f_name or '_div_' in f_name:
+                        parts = f_name[4:].split('_div_') if f_name.startswith('RGM_') else f_name.split('_div_')
+                        self.molecule_plan.append((1, name_to_idx[parts[0]], name_to_idx[parts[1]], roster_idx))
+                    elif '_X_' in f_name:
+                        parts = f_name.split('_X_')
+                        self.molecule_plan.append((0, name_to_idx[parts[0]], name_to_idx[parts[1]], roster_idx))
+                except KeyError: continue
+
+        self.atomic_copy_plan = np.array(self.atomic_copy_plan, dtype=np.int32)
+        self.molecule_plan = np.array(self.molecule_plan, dtype=np.int32)
+
+    def generate_production_vector(self, filename: str, news_df: pd.DataFrame = None, is_live: bool = False) -> pd.DataFrame:
+        """Universal entry point for Batch processing (Vault Forge)."""
+        symbol = filename.split('_')[0]
+        df = self.cleaner.load_csv(os.path.join(self.raw_dir, filename))
+        return self._execute_forge_pipeline(df, symbol, news_df, is_live)
+
+    def generate_production_vector_from_df(self, df: pd.DataFrame, symbol: str, news_df: pd.DataFrame = None, is_live: bool = True) -> pd.DataFrame:
+        """Entry point for live HUD signals."""
+        return self._execute_forge_pipeline(df, symbol, news_df, is_live)
+
+    def _execute_forge_pipeline(self, df: pd.DataFrame, symbol: str, news_df: pd.DataFrame, is_live: bool) -> pd.DataFrame:
+        """The Central Engine Room. Bit-for-bit identical for both Live and Batch."""
+        
+        # --- TIER 1: HIGH-HISTORY PHYSICS (300 Rows) ---
         df = base_engine.apply_base_physics(df)
-        df = self.cleaner.calculate_news_sensor(df, symbol)
-        
-        # Identity & Anatomical Parents
+        df = self.cleaner.calculate_news_sensor(df, symbol, news_df)
         df['asset_id'] = np.int8(self.asset_map.get(symbol, -1))
         df = anatomy.apply_m1_anatomy(df) 
-        df = temporal.apply_time_vectors(df)
-        df = temporal.apply_rolling_lenses(df)
         df = anatomy.apply_m1_memory_lags(df)
         df = anatomy.apply_momentum_quality(df)
-        
-        # Structural Parents (Pivots & Walls)
         df = geometry.apply_horizontal_landmarks(df)
         df = geometry.apply_horizontal_multipliers(df)
         df = geometry.apply_trendline_engine(df)
         df = geometry.apply_trendline_integrity(df)
-        
-        # Force & Mass Parents
+
+        # --- TIER 2: MID-HISTORY SLICE (Only if Live) ---
+        if is_live:
+            df = df.tail(61).copy()
+
+        df = temporal.apply_time_vectors(df)
+        df = temporal.apply_rolling_lenses(df)
         df = mass.apply_volume_stack(df)
         df = dynamics.apply_market_dynamics(df)
 
-        # --- STAGE 2: THE SURGICAL SPEED SLICE ---
-        # We drop the history and keep only the last 2 rows.
-        # This is the 'Speed Valve' that kills the 22-second lag.
-        # We need 2 rows to calculate Deltas (Velocity) and D_ (Acceleration).
-        df = df.tail(2).copy()
+        # --- TIER 3: SURGICAL SLICE (Only if Live) ---
+        if is_live:
+            df = df.tail(2).copy()
 
-        # --- STAGE 3: THE MOLECULE FORGE (2 Rows Only) ---
-        # Interactions are calculated only for the current candle.
-        df = self._forge_elite_molecules(df, symbol)
+        # --- TIER 4: NUMPY FORGE ---
+        num_rows, num_features = df.shape[0], len(self.final_roster)
+        master_array = np.zeros((num_rows, num_features), dtype=np.float32)
+        atom_data = df.values
+        for atom_idx, target_idx in self.atomic_copy_plan:
+            master_array[:, target_idx] = atom_data[:, atom_idx]
 
-        # --- STAGE 4: SILENCER & ALIGNMENT ---
-        # 1. Reset memory to fix fragmentation warnings
-        df = df.copy() 
-        
-        # 2. Identify and clip numeric features (Rational Boundary)
-        numeric_cols = df.select_dtypes(include=[np.number]).columns
-        protected = [c for c in numeric_cols if c == 'asset_id']
-        clip_targets = [c for c in numeric_cols if c not in protected]
-        df[clip_targets] = df[clip_targets].clip(lower=-100.0, upper=100.0)
+        for op, a_idx, b_idx, target_idx in self.molecule_plan:
+            if op == 0: master_array[:, target_idx] = master_array[:, a_idx] * master_array[:, b_idx]
+            elif op == 1: master_array[:, target_idx] = master_array[:, a_idx] / (master_array[:, b_idx] + 1e-9)
+            elif op == 2: 
+                master_array[:, target_idx] = master_array[:, a_idx] - np.roll(master_array[:, a_idx], 1)
+                master_array[0, target_idx] = 0
+            elif op == 3: 
+                d_a = master_array[:, a_idx] - np.roll(master_array[:, a_idx], 1)
+                d_b = master_array[:, b_idx] - np.roll(master_array[:, b_idx], 1)
+                master_array[:, target_idx] = d_a * d_b
+                master_array[0, target_idx] = 0
 
-        # 3. POSITIONAL HANDSHAKE: The Training Mirror
-        # Ensure 'asset_id' is moved to Index 470 (The Very Last Column)
-        # to match the Specialist's internal address book.
-        features_no_id = [f for f in self.elite_roster if f != 'asset_id']
-        final_production_cols = features_no_id + ['asset_id']
-        
-        # Filter and Re-order
-        production_df = df[final_production_cols].copy()
-        
-        # 4. TYPE HARDENING
-        # Cast features to float32 and asset_id to integer for CatBoost
-        production_df[features_no_id] = production_df[features_no_id].astype('float32')
+        # --- STAGE 5: SILENCER & TYPE SAFETY ---
+        master_array = np.clip(master_array, -100.0, 100.0)
+        production_df = pd.DataFrame(master_array, columns=self.final_roster, index=df.index)
         production_df['asset_id'] = production_df['asset_id'].astype(int)
-        
-        # Return only the current candle for prediction
-        return production_df.tail(1)
-    
-    
-    def _forge_elite_molecules(self, df: pd.DataFrame, symbol: str) -> pd.DataFrame:
-        """Recreates interactions using a dictionary buffer to prevent fragmentation."""
-        forged_cols = {} # Dictionary to hold new features
 
-        for f_name in self.elite_roster:
-            if f_name in df.columns: continue
-            
-            try:
-                if f_name.startswith('D_'):
-                    parts = f_name[2:].split('_X_D_')
-                    p_a, p_b = parts[0], parts[1]
-                    forged_cols[f_name] = ((df[p_a] - df[p_a].shift(1)) * (df[p_b] - df[p_b].shift(1))).fillna(0)
-
-                elif f_name.startswith('delta_'):
-                    p_a = f_name[6:]
-                    forged_cols[f_name] = (df[p_a] - df[p_a].shift(1)).fillna(0)
-
-                elif 'RGM_' in f_name or '_div_' in f_name:
-                    parts = f_name[4:].split('_div_') if f_name.startswith('RGM_') else f_name.split('_div_')
-                    forged_cols[f_name] = df[parts[0]] / (df[parts[1]] + 1e-9)
-
-                elif '_X_' in f_name:
-                    parts = f_name.split('_X_')
-                    forged_cols[f_name] = df[parts[0]] * df[parts[1]]
-            
-            except Exception as e:
-                forged_cols[f_name] = 0.0
-
-        # Join all new columns at once to prevent fragmentation
-        new_features_df = pd.DataFrame(forged_cols, index=df.index)
-        df = pd.concat([df, new_features_df], axis=1)
-        return df
+        # Final Return Selection
+        return production_df.tail(1) if is_live else production_df
